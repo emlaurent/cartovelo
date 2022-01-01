@@ -1,0 +1,242 @@
+<!-- réalisé d'après https://www.apicy.fr/carte/realiser-une-carte-similaire-version-2 -->
+<!--  source initiale de mai 2018, Philippe Quaglia -->
+
+
+<html>
+<head>   <!-- Ne rien modifier dans cet entête hormis le titre ci-dessous. On charge ici les bibliothèques logicielles nécessaires pour faire fonctionner la page -->
+    	<title>utilisation Leaflet - testy</title>  <!-- Titre de la carte qui apparait dans le navigateur, à adapter selon vos besoins -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    	
+	<!-- Include Leaflet CSS files in the head section of your document: -->
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" />
+
+	<!-- Include Leaflet JavaScript file: -->
+ 	<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+	<!-- Rajoute le script leaflet-omnivore qui permet d'afficher des fichiers GPX (ou autres) -->
+	<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
+</head>
+
+
+<body>
+	<!-- Affichage de la carte -->
+
+	<div id="map" class="map" style="width:100%; height:100%; border:solid 4px black"> </div> 
+	<a href="http://carte.apicy.fr"  TARGET="_contents">Ouvrir dans une nouvelle fenêtre</a>
+
+  	<script> 
+
+
+// définition de différentes cartes possibles
+// Initialisation de la couche dans laquelle seront affichées les cartes
+ 	var osmMap = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a>', minZoom: 12, maxZoom: 20}),
+
+// Définition des différentes sources de cartes possibles. Voir par exemple sur: https://wiki.openstreetmap.org/wiki/Tiles Si vous utilisez des cartes MapBox, mettez votre token dans le code à l'endroit indiqué en laissant les ''
+// Ici, nous définissons 4 différentes cartes de base possible
+		openTopoMap=L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {attribution: 'Map data: &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)', minZoom: 12, maxZoom: 20}),
+		Esri_WorldImagery= L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+	attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community',minZoom: 12, maxZoom: 20,id: 'Esri.WorldImagery'});
+
+// initialisation de la carte MapBox
+        var map = L.map('map', {
+			    layers: [osmMap] // Une seule carte possible, celle qui sera affichée par défaut
+		    })
+		    .setView([45.7761, 4.8492], 14);  // Position de la carte et niveau de zoom. A modifier pour adapter à votre région
+
+		var baseLayers = {
+			"OSM Mapnik": osmMap,					// Légende des cartes affichées dans la boite de sélection
+			"OpenTopoMap": openTopoMap,
+			"Esri Images": Esri_WorldImagery
+		};
+
+// boite de controle pour choisir les différentes cartes, fermée			//mettre collapsed:false si on veut que la boite soit ouverte
+		L.control.layers(baseLayers,null,{collapsed:false}).addTo(map);
+
+// affichage d'une échelle dans le coin en bas à gauche, en supprimant l'échelle en miles
+		L.control.scale({imperial:false}).addTo(map);
+
+// boite de controle pour choisir les différentes couches d'aménagements vélos
+//var controlLayers = L.control.layers(null,null,{collapsed:false},{autoZIndex:true}).addTo(map);
+var controlLayers = L.control.layers(null,null,{collapsed:false}).addTo(map);
+
+// boite de controle pour choisir les différentes couches d'autres choses intéressantes
+//var controlLayersTransportCommuns = L.control.layers(null,null,{collapsed:false},{autoZIndex:true}).addTo(map);
+var controlLayersTransportCommuns = L.control.layers(null,null,{collapsed:false}).addTo(map);
+
+// 3ème boite de controle pour choisir les différents itinéraires
+//var controlLayers2 = L.control.layers(null,null,{collapsed:true}).addTo(map);
+
+
+// Affichage pistes cyclables et voies vertes. Le style peut être modifié. Affichée dans la première boite contrôle
+// Pour trouver le code pour les couleurs, utiliser par exemple: https://www.w3schools.com/colors/colors_picker.asp
+
+
+// Affichage pistes cyclables et voies vertes. Le style peut être modifié. Affichée dans la première boite contrôle
+// Pour trouver le code pour les couleurs, utiliser par exemple: https://www.w3schools.com/colors/colors_picker.asp
+
+  $.getJSON("./cycle_voies_vertes_nocovid19.geojson",function(PistesVoiesVertesdata){
+var PistesVoiesVertesStyle = {
+    "color": "#088A29",
+    "weight": 5,
+    "opacity": 1,
+  //  "dashArray":"5,10"
+};
+    var PistesVoiesVerteslayer = L.geoJson(PistesVoiesVertesdata, { style: PistesVoiesVertesStyle }).addTo(map);
+	controlLayers.addOverlay(PistesVoiesVerteslayer, 'Pistes Cyclables / Voies vertes');
+  });
+
+
+// Affichage bandes cyclables
+  $.getJSON("./cycle_bandes_nocovid19.geojson",function(BandesCyclablesdata){
+var BandesCyclablesStyle = {
+    "color": "#088A29",
+    "weight": 3,
+    "opacity": 0.8,
+//    "dashArray":"1,10"
+};
+    var BandesCyclableslayer = L.geoJson(BandesCyclablesdata, { style: BandesCyclablesStyle }).addTo(map);
+	controlLayers.addOverlay(BandesCyclableslayer, 'Bandes Cyclables');
+  });
+
+// Affichage cycle autorise
+  $.getJSON("./bicycle_yes_nocovid19.geojson",function(BicycleYesdata){
+var BicycleYesStyle = {
+    "color": "#088A29",
+    "weight": 3,
+    "opacity": 0.5,
+//    "dashArray":"1,10"
+};
+    var BicycleYeslayer = L.geoJson(BicycleYesdata, { style: BicycleYesStyle }).addTo(map);
+	controlLayers.addOverlay(BicycleYeslayer, 'Cycle autorisé');
+  });
+
+
+
+// Affichage vitesse limitée à 30 ou moins
+//var MaxSpeed30Style = {
+//    "color": "#2041d6",
+//    "weight": 5,
+//    "opacity": 0.2,
+//    "dashArray":"5,10"
+//};
+//var MaxSpeed30data=$.getJSON("./cycle_voies30.geojson");
+//var MaxSpeed30layer = L.geoJson(MaxSpeed30data, { style: MaxSpeed30Style }).addTo(map);
+//controlLayers.addOverlay(MaxSpeed30layer, 'Vitesse Max 30');
+
+
+  $.getJSON("./cycle_covid19.geojson",function(PistesCoviddata){
+var PistesCovidStyle = {
+    "color": "#ff6660",
+    "weight": 8,
+    "opacity": 0.9,
+  //  "dashArray":"5,10"
+};
+    var PistesCovidlayer = L.geoJson(PistesCoviddata, { style: PistesCovidStyle }).addTo(map);
+	controlLayers.addOverlay(PistesCovidlayer, 'Pistes Covid19');
+  });
+
+// Affichage station velov
+  $.getJSON("./cycle_velov_station.geojson",function(CycleVelovStationdata){
+    // CycleVelovStationIcon
+    var CycleVelovStationIcon = L.icon({
+	iconUrl: './style/velov0.png', 
+	iconSize: [20,20]
+	});
+
+    // CycleVelovStationlayer
+    var CycleVelovStationlayer = L.geoJson(CycleVelovStationdata,{
+      pointToLayer: function(feature,latlng){
+	 var marker = L.marker(latlng,{icon: CycleVelovStationIcon});
+	marker.bindPopup(feature.properties.name);
+	return marker;
+      }
+    })
+
+    // controlLayer
+    controlLayers.addOverlay(CycleVelovStationlayer, 'Station VéloV');
+  });
+
+
+// Affichage tram
+  $.getJSON("./railway_tram.geojson",function(RailwayTramdata){
+  var RailwayTramStyle = {
+    "color": "#ff66cc",
+    "weight": 5,
+    "opacity": 0.5,
+//    "dashArray":"5,10"
+};
+    var RailwayTramlayer = L.geoJson(RailwayTramdata, { style: RailwayTramStyle }).addTo(map);
+
+    controlLayersTransportCommuns.addOverlay(RailwayTramlayer, 'Lignes de tram');
+  });
+
+// Affichage station tram
+  $.getJSON("./railway_tram_station.geojson",function(RailwayTramStationdata){
+    // RailwayTramStationIcon
+    var RailwayTramStationIcon = L.icon({
+	iconUrl: './style/tcl_tram0.png', 
+	iconSize: [20,20]
+	});
+
+    // RailwayTramStationlayer
+    var RailwayTramStationlayer = L.geoJson(RailwayTramStationdata,{
+      pointToLayer: function(feature,latlng){
+	 var marker = L.marker(latlng,{icon: RailwayTramStationIcon});
+	marker.bindPopup(feature.properties.name);
+	return marker;
+      }
+    })
+
+    // controlLayer
+    controlLayersTransportCommuns.addOverlay(RailwayTramStationlayer, 'Station de tram');
+  });
+
+// Affichage metro
+  $.getJSON("./railway_subway.geojson",function(RailwaySubwaydata){
+  var RailwaySubwayStyle = {
+    "color": "#0000ff",
+    "weight": 5,
+    "opacity": 0.5,
+//    "dashArray":"5,10"
+};
+    var RailwaySubwaylayer = L.geoJson(RailwaySubwaydata, { style: RailwaySubwayStyle }).addTo(map);
+
+    controlLayersTransportCommuns.addOverlay(RailwaySubwaylayer, 'Lignes de métro');
+  });
+
+// Affichage station métro et funiculaire
+  $.getJSON("./railway_subway_station.geojson",function(RailwaySubwayStationdata){
+    // RailwaySubwayStationIcon
+    var RailwaySubwayStationIcon = L.icon({
+	iconUrl: './style/tcl_metro0.png', 
+	iconSize: [20,20]
+	});
+
+    // RailwaySubwayStationlayer
+    var RailwaySubwayStationlayer = L.geoJson(RailwaySubwayStationdata,{
+      pointToLayer: function(feature,latlng){
+	 var marker = L.marker(latlng,{icon: RailwaySubwayStationIcon});
+	marker.bindPopup(feature.properties.name);
+	return marker;
+      }
+    })
+
+    // controlLayer
+    controlLayersTransportCommuns.addOverlay(RailwaySubwayStationlayer, 'Station de métro');
+  });
+
+
+
+
+
+
+</script>
+
+
+</body>
+ 
+</html>
+
+
