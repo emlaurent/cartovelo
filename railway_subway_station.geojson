@@ -1,0 +1,1775 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-31T17:31:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25337611",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8055028,
+          45.7664422
+        ]
+      },
+      "id": "node/25337611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29065832",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8652467,
+          45.747584
+        ]
+      },
+      "id": "node/29065832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29065834",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8428428,
+          45.7553541
+        ]
+      },
+      "id": "node/29065834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29065835",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8256242,
+          45.7602383
+        ]
+      },
+      "id": "node/29065835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29065837",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8713767,
+          45.7455214
+        ]
+      },
+      "id": "node/29065837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29065839",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687319,
+            "reltags": {
+              "colour": "#EE3898",
+              "from": "Vaulx-en-Velin - La Soie",
+              "name": "Ligne A : Vaulx-en-Velin - La Soie ⇒ Perrache",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "A",
+              "route": "subway",
+              "to": "Perrache",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2944",
+              "wikipedia": "fr:Ligne A du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8331247,
+          45.7575745
+        ]
+      },
+      "id": "node/29065839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29065840",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.853488,
+          45.7516219
+        ]
+      },
+      "id": "node/29065840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29066747",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8054708,
+          45.7745978
+        ]
+      },
+      "id": "node/29066747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29066749",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8788802,
+          45.7429973
+        ]
+      },
+      "id": "node/29066749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29075624",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8865793,
+          45.7383722
+        ]
+      },
+      "id": "node/29075624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29075625",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687319,
+            "reltags": {
+              "colour": "#EE3898",
+              "from": "Vaulx-en-Velin - La Soie",
+              "name": "Ligne A : Vaulx-en-Velin - La Soie ⇒ Perrache",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "A",
+              "route": "subway",
+              "to": "Perrache",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2944",
+              "wikipedia": "fr:Ligne A du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8358281,
+          45.7633083
+        ]
+      },
+      "id": "node/29075625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29075626",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8873009,
+          45.7305576
+        ]
+      },
+      "id": "node/29075626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29075627",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687319,
+            "reltags": {
+              "colour": "#EE3898",
+              "from": "Vaulx-en-Velin - La Soie",
+              "name": "Ligne A : Vaulx-en-Velin - La Soie ⇒ Perrache",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "A",
+              "route": "subway",
+              "to": "Perrache",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2944",
+              "wikipedia": "fr:Ligne A du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8360565,
+          45.7672702
+        ]
+      },
+      "id": "node/29075627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29076107",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8875525,
+          45.7195177
+        ]
+      },
+      "id": "node/29076107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29867720",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687321,
+            "reltags": {
+              "colour": "#F99D1D",
+              "contact:website": "http://www.tcl.fr/",
+              "from": "Cuire",
+              "name": "Ligne C : Cuire ⇒ Hôtel de Ville - Louis Pradel",
+              "network": "TCL",
+              "operator": "Keolis",
+              "owner": "SYTRAL",
+              "ownership": "public_nonprofit",
+              "public_transport:version": "2",
+              "ref": "C",
+              "route": "subway",
+              "source": "http://www.tcl.fr/Me-deplacer/Toutes-les-lignes/C",
+              "to": "Hôtel de Ville - Louis Pradel",
+              "type": "route",
+              "wheelchair": "limited",
+              "wikidata": "Q2969",
+              "wikipedia": "fr:Ligne C du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8362035,
+          45.7710134
+        ]
+      },
+      "id": "node/29867720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29867721",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687321,
+            "reltags": {
+              "colour": "#F99D1D",
+              "contact:website": "http://www.tcl.fr/",
+              "from": "Cuire",
+              "name": "Ligne C : Cuire ⇒ Hôtel de Ville - Louis Pradel",
+              "network": "TCL",
+              "operator": "Keolis",
+              "owner": "SYTRAL",
+              "ownership": "public_nonprofit",
+              "public_transport:version": "2",
+              "ref": "C",
+              "route": "subway",
+              "source": "http://www.tcl.fr/Me-deplacer/Toutes-les-lignes/C",
+              "to": "Hôtel de Ville - Louis Pradel",
+              "type": "route",
+              "wheelchair": "limited",
+              "wikidata": "Q2969",
+              "wikipedia": "fr:Ligne C du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8320022,
+          45.77451
+        ]
+      },
+      "id": "node/29867721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33125279",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5972769,
+            "reltags": {
+              "colour": "#8BC752",
+              "description:fr": "Itinéraire funiculaire descendant avec évitement sud",
+              "from": "Saint-Just",
+              "name": "Funiculaire de Saint-Just (sens descendant)",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "F1",
+              "route": "funicular",
+              "to": "Vieux Lyon - Cathédrale Saint-Jean",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3090916",
+              "wikipedia": "fr:Funiculaire de Saint-Just"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 5972770,
+            "reltags": {
+              "colour": "#8BC752",
+              "description:fr": "Itinéraire funiculaire descendant avec évitement nord",
+              "from": "Saint-Just",
+              "name": "Funiculaire de Saint-Just (sens descendant)",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "F1",
+              "route": "funicular",
+              "to": "Vieux Lyon - Cathédrale Saint-Jean",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3090916",
+              "wikipedia": "fr:Funiculaire de Saint-Just"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8164781,
+          45.7571997
+        ]
+      },
+      "id": "node/33125279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33125280",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5972767,
+            "reltags": {
+              "colour": "#8BC752",
+              "from": "Fourvière",
+              "name": "Funiculaire de Fourvière (sens descendant)",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "F2",
+              "route": "funicular",
+              "to": "Vieux Lyon - Cathédrale Saint-Jean",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2970872",
+              "wikipedia": "fr:Funiculaire de Fourvière"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8214827,
+          45.7623841
+        ]
+      },
+      "id": "node/33125280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/192064321",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687321,
+            "reltags": {
+              "colour": "#F99D1D",
+              "contact:website": "http://www.tcl.fr/",
+              "from": "Cuire",
+              "name": "Ligne C : Cuire ⇒ Hôtel de Ville - Louis Pradel",
+              "network": "TCL",
+              "operator": "Keolis",
+              "owner": "SYTRAL",
+              "ownership": "public_nonprofit",
+              "public_transport:version": "2",
+              "ref": "C",
+              "route": "subway",
+              "source": "http://www.tcl.fr/Me-deplacer/Toutes-les-lignes/C",
+              "to": "Hôtel de Ville - Louis Pradel",
+              "type": "route",
+              "wheelchair": "limited",
+              "wikidata": "Q2969",
+              "wikipedia": "fr:Ligne C du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82752,
+          45.7794999
+        ]
+      },
+      "id": "node/192064321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/213409354",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687319,
+            "reltags": {
+              "colour": "#EE3898",
+              "from": "Vaulx-en-Velin - La Soie",
+              "name": "Ligne A : Vaulx-en-Velin - La Soie ⇒ Perrache",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "A",
+              "route": "subway",
+              "to": "Perrache",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2944",
+              "wikipedia": "fr:Ligne A du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8291954,
+          45.7530404
+        ]
+      },
+      "id": "node/213409354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/244430501",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687319,
+            "reltags": {
+              "colour": "#EE3898",
+              "from": "Vaulx-en-Velin - La Soie",
+              "name": "Ligne A : Vaulx-en-Velin - La Soie ⇒ Perrache",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "A",
+              "route": "subway",
+              "to": "Perrache",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2944",
+              "wikipedia": "fr:Ligne A du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8534248,
+          45.7695736
+        ]
+      },
+      "id": "node/244430501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/244430502",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687319,
+            "reltags": {
+              "colour": "#EE3898",
+              "from": "Vaulx-en-Velin - La Soie",
+              "name": "Ligne A : Vaulx-en-Velin - La Soie ⇒ Perrache",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "A",
+              "route": "subway",
+              "to": "Perrache",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2944",
+              "wikipedia": "fr:Ligne A du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8443953,
+          45.768737
+        ]
+      },
+      "id": "node/244430502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262875986",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 3687320,
+            "reltags": {
+              "colour": "#007DC5",
+              "from": "Gare d'Oullins",
+              "name": "Ligne B : Gare d'Oullins ⇒ Charpennes",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "B",
+              "route": "subway",
+              "to": "Charpennes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2965",
+              "wikipedia": "fr:Ligne B du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8634477,
+          45.7704521
+        ]
+      },
+      "id": "node/262875986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/371532881",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8880198,
+          45.705464
+        ]
+      },
+      "id": "node/371532881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/371852541",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687319,
+            "reltags": {
+              "colour": "#EE3898",
+              "from": "Vaulx-en-Velin - La Soie",
+              "name": "Ligne A : Vaulx-en-Velin - La Soie ⇒ Perrache",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "A",
+              "route": "subway",
+              "to": "Perrache",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2944",
+              "wikipedia": "fr:Ligne A du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8739852,
+          45.7705609
+        ]
+      },
+      "id": "node/371852541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/371852548",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687319,
+            "reltags": {
+              "colour": "#EE3898",
+              "from": "Vaulx-en-Velin - La Soie",
+              "name": "Ligne A : Vaulx-en-Velin - La Soie ⇒ Perrache",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "A",
+              "route": "subway",
+              "to": "Perrache",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2944",
+              "wikipedia": "fr:Ligne A du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8822998,
+          45.7690277
+        ]
+      },
+      "id": "node/371852548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/371868366",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687319,
+            "reltags": {
+              "colour": "#EE3898",
+              "from": "Vaulx-en-Velin - La Soie",
+              "name": "Ligne A : Vaulx-en-Velin - La Soie ⇒ Perrache",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "A",
+              "route": "subway",
+              "to": "Perrache",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2944",
+              "wikipedia": "fr:Ligne A du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8892785,
+          45.7677444
+        ]
+      },
+      "id": "node/371868366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/371868374",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687319,
+            "reltags": {
+              "colour": "#EE3898",
+              "from": "Vaulx-en-Velin - La Soie",
+              "name": "Ligne A : Vaulx-en-Velin - La Soie ⇒ Perrache",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "A",
+              "route": "subway",
+              "to": "Perrache",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2944",
+              "wikipedia": "fr:Ligne A du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9008369,
+          45.7656177
+        ]
+      },
+      "id": "node/371868374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/371868381",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687319,
+            "reltags": {
+              "colour": "#EE3898",
+              "from": "Vaulx-en-Velin - La Soie",
+              "name": "Ligne A : Vaulx-en-Velin - La Soie ⇒ Perrache",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "A",
+              "route": "subway",
+              "to": "Perrache",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2944",
+              "wikipedia": "fr:Ligne A du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9088173,
+          45.7640977
+        ]
+      },
+      "id": "node/371868381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/371868413",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 3687319,
+            "reltags": {
+              "colour": "#EE3898",
+              "from": "Vaulx-en-Velin - La Soie",
+              "name": "Ligne A : Vaulx-en-Velin - La Soie ⇒ Perrache",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "A",
+              "route": "subway",
+              "to": "Perrache",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2944",
+              "wikipedia": "fr:Ligne A du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9219541,
+          45.7612228
+        ]
+      },
+      "id": "node/371868413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/599598652",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8045386,
+          45.7805642
+        ]
+      },
+      "id": "node/599598652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977851418",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 3687319,
+            "reltags": {
+              "colour": "#EE3898",
+              "from": "Vaulx-en-Velin - La Soie",
+              "name": "Ligne A : Vaulx-en-Velin - La Soie ⇒ Perrache",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "A",
+              "route": "subway",
+              "to": "Perrache",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2944",
+              "wikipedia": "fr:Ligne A du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8268063,
+          45.7496116
+        ]
+      },
+      "id": "node/1977851418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978195276",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5972769,
+            "reltags": {
+              "colour": "#8BC752",
+              "description:fr": "Itinéraire funiculaire descendant avec évitement sud",
+              "from": "Saint-Just",
+              "name": "Funiculaire de Saint-Just (sens descendant)",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "F1",
+              "route": "funicular",
+              "to": "Vieux Lyon - Cathédrale Saint-Jean",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3090916",
+              "wikipedia": "fr:Funiculaire de Saint-Just"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8213787,
+          45.7586372
+        ]
+      },
+      "id": "node/1978195276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978195278",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5972770,
+            "reltags": {
+              "colour": "#8BC752",
+              "description:fr": "Itinéraire funiculaire descendant avec évitement nord",
+              "from": "Saint-Just",
+              "name": "Funiculaire de Saint-Just (sens descendant)",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "F1",
+              "route": "funicular",
+              "to": "Vieux Lyon - Cathédrale Saint-Jean",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3090916",
+              "wikipedia": "fr:Funiculaire de Saint-Just"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8213695,
+          45.7586597
+        ]
+      },
+      "id": "node/1978195278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3349897016",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687321,
+            "reltags": {
+              "colour": "#F99D1D",
+              "contact:website": "http://www.tcl.fr/",
+              "from": "Cuire",
+              "name": "Ligne C : Cuire ⇒ Hôtel de Ville - Louis Pradel",
+              "network": "TCL",
+              "operator": "Keolis",
+              "owner": "SYTRAL",
+              "ownership": "public_nonprofit",
+              "public_transport:version": "2",
+              "ref": "C",
+              "route": "subway",
+              "source": "http://www.tcl.fr/Me-deplacer/Toutes-les-lignes/C",
+              "to": "Hôtel de Ville - Louis Pradel",
+              "type": "route",
+              "wheelchair": "limited",
+              "wikidata": "Q2969",
+              "wikipedia": "fr:Ligne C du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.836032,
+          45.7681512
+        ]
+      },
+      "id": "node/3349897016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351610288",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687320,
+            "reltags": {
+              "colour": "#007DC5",
+              "from": "Gare d'Oullins",
+              "name": "Ligne B : Gare d'Oullins ⇒ Charpennes",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "B",
+              "route": "subway",
+              "to": "Charpennes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2965",
+              "wikipedia": "fr:Ligne B du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8593396,
+          45.767117
+        ]
+      },
+      "id": "node/3351610288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351610289",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687319,
+            "reltags": {
+              "colour": "#EE3898",
+              "from": "Vaulx-en-Velin - La Soie",
+              "name": "Ligne A : Vaulx-en-Velin - La Soie ⇒ Perrache",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "A",
+              "route": "subway",
+              "to": "Perrache",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2944",
+              "wikipedia": "fr:Ligne A du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8641875,
+          45.7705669
+        ]
+      },
+      "id": "node/3351610289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351610290",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687320,
+            "reltags": {
+              "colour": "#007DC5",
+              "from": "Gare d'Oullins",
+              "name": "Ligne B : Gare d'Oullins ⇒ Charpennes",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "B",
+              "route": "subway",
+              "to": "Charpennes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2965",
+              "wikipedia": "fr:Ligne B du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8334388,
+          45.7310747
+        ]
+      },
+      "id": "node/3351610290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351610291",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687320,
+            "reltags": {
+              "colour": "#007DC5",
+              "from": "Gare d'Oullins",
+              "name": "Ligne B : Gare d'Oullins ⇒ Charpennes",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "B",
+              "route": "subway",
+              "to": "Charpennes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2965",
+              "wikipedia": "fr:Ligne B du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8574339,
+          45.761645
+        ]
+      },
+      "id": "node/3351610291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351610292",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 3687320,
+            "reltags": {
+              "colour": "#007DC5",
+              "from": "Gare d'Oullins",
+              "name": "Ligne B : Gare d'Oullins ⇒ Charpennes",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "B",
+              "route": "subway",
+              "to": "Charpennes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2965",
+              "wikipedia": "fr:Ligne B du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8145276,
+          45.7167014
+        ]
+      },
+      "id": "node/3351610292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351626493",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687320,
+            "reltags": {
+              "colour": "#007DC5",
+              "from": "Gare d'Oullins",
+              "name": "Ligne B : Gare d'Oullins ⇒ Charpennes",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "B",
+              "route": "subway",
+              "to": "Charpennes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2965",
+              "wikipedia": "fr:Ligne B du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8422918,
+          45.7459347
+        ]
+      },
+      "id": "node/3351626493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351626494",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687320,
+            "reltags": {
+              "colour": "#007DC5",
+              "from": "Gare d'Oullins",
+              "name": "Ligne B : Gare d'Oullins ⇒ Charpennes",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "B",
+              "route": "subway",
+              "to": "Charpennes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2965",
+              "wikipedia": "fr:Ligne B du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8473512,
+          45.7592161
+        ]
+      },
+      "id": "node/3351626494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351626495",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687320,
+            "reltags": {
+              "colour": "#007DC5",
+              "from": "Gare d'Oullins",
+              "name": "Ligne B : Gare d'Oullins ⇒ Charpennes",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "B",
+              "route": "subway",
+              "to": "Charpennes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2965",
+              "wikipedia": "fr:Ligne B du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8373033,
+          45.7375695
+        ]
+      },
+      "id": "node/3351626495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351626496",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687320,
+            "reltags": {
+              "colour": "#007DC5",
+              "from": "Gare d'Oullins",
+              "name": "Ligne B : Gare d'Oullins ⇒ Charpennes",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "B",
+              "route": "subway",
+              "to": "Charpennes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2965",
+              "wikipedia": "fr:Ligne B du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8466125,
+          45.7532993
+        ]
+      },
+      "id": "node/3351626496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351626498",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3687320,
+            "reltags": {
+              "colour": "#007DC5",
+              "from": "Gare d'Oullins",
+              "name": "Ligne B : Gare d'Oullins ⇒ Charpennes",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "B",
+              "route": "subway",
+              "to": "Charpennes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2965",
+              "wikipedia": "fr:Ligne B du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8308278,
+          45.7267611
+        ]
+      },
+      "id": "node/3351626498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3362091551",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.847025,
+          45.7539138
+        ]
+      },
+      "id": "node/3362091551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3397995077",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 113903,
+            "reltags": {
+              "colour": "#00AC4D",
+              "from": "Gare de Vaise",
+              "name": "Ligne D : Gare de Vaise ⇒ Gare de Vénissieux",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "D",
+              "route": "subway",
+              "to": "Gare de Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2976",
+              "wikipedia": "fr:Ligne D du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8334117,
+          45.7570913
+        ]
+      },
+      "id": "node/3397995077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3397995081",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5972769,
+            "reltags": {
+              "colour": "#8BC752",
+              "description:fr": "Itinéraire funiculaire descendant avec évitement sud",
+              "from": "Saint-Just",
+              "name": "Funiculaire de Saint-Just (sens descendant)",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "F1",
+              "route": "funicular",
+              "to": "Vieux Lyon - Cathédrale Saint-Jean",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3090916",
+              "wikipedia": "fr:Funiculaire de Saint-Just"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 5972770,
+            "reltags": {
+              "colour": "#8BC752",
+              "description:fr": "Itinéraire funiculaire descendant avec évitement nord",
+              "from": "Saint-Just",
+              "name": "Funiculaire de Saint-Just (sens descendant)",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "F1",
+              "route": "funicular",
+              "to": "Vieux Lyon - Cathédrale Saint-Jean",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3090916",
+              "wikipedia": "fr:Funiculaire de Saint-Just"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8258904,
+          45.7599724
+        ]
+      },
+      "id": "node/3397995081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3397995082",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5972767,
+            "reltags": {
+              "colour": "#8BC752",
+              "from": "Fourvière",
+              "name": "Funiculaire de Fourvière (sens descendant)",
+              "network": "TCL",
+              "public_transport:version": "2",
+              "ref": "F2",
+              "route": "funicular",
+              "to": "Vieux Lyon - Cathédrale Saint-Jean",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2970872",
+              "wikipedia": "fr:Funiculaire de Fourvière"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8257703,
+          45.7600559
+        ]
+      },
+      "id": "node/3397995082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4590139247",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 3687321,
+            "reltags": {
+              "colour": "#F99D1D",
+              "contact:website": "http://www.tcl.fr/",
+              "from": "Cuire",
+              "name": "Ligne C : Cuire ⇒ Hôtel de Ville - Louis Pradel",
+              "network": "TCL",
+              "operator": "Keolis",
+              "owner": "SYTRAL",
+              "ownership": "public_nonprofit",
+              "public_transport:version": "2",
+              "ref": "C",
+              "route": "subway",
+              "source": "http://www.tcl.fr/Me-deplacer/Toutes-les-lignes/C",
+              "to": "Hôtel de Ville - Louis Pradel",
+              "type": "route",
+              "wheelchair": "limited",
+              "wikidata": "Q2969",
+              "wikipedia": "fr:Ligne C du métro de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8326307,
+          45.7853201
+        ]
+      },
+      "id": "node/4590139247"
+    }
+  ]
+}

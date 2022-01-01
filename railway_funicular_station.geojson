@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-15T13:39:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33125279",
+        "funicular": "yes",
+        "name": "Saint-Just",
+        "network": "TCL",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "wheelchair": "yes",
+        "wikidata": "Q3497352",
+        "wikipedia": "fr:Saint-Just (funiculaire de Lyon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8164781,
+          45.7571997
+        ]
+      },
+      "id": "node/33125279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33125280",
+        "funicular": "yes",
+        "name": "Fourvière",
+        "network": "TCL",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8214827,
+          45.7623841
+        ]
+      },
+      "id": "node/33125280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978195276",
+        "covered": "no",
+        "funicular": "yes",
+        "name": "Minimes - Théâtres romains",
+        "network": "TCL",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "wheelchair": "yes",
+        "wikidata": "Q3497346",
+        "wikipedia": "fr:Minimes - Théâtres Romains (funiculaire de Lyon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8213787,
+          45.7586372
+        ]
+      },
+      "id": "node/1978195276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978195278",
+        "covered": "no",
+        "funicular": "yes",
+        "name": "Minimes - Théâtres romains",
+        "network": "TCL",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "wheelchair": "yes",
+        "wikidata": "Q3497346",
+        "wikipedia": "fr:Minimes - Théâtres Romains (funiculaire de Lyon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8213695,
+          45.7586597
+        ]
+      },
+      "id": "node/1978195278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3397995081",
+        "funicular": "yes",
+        "name": "Vieux Lyon - Cathédrale Saint-Jean",
+        "network": "TCL",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "5095",
+        "wheelchair": "yes",
+        "wikidata": "Q2418969",
+        "wikipedia": "fr:Vieux Lyon - Cathédrale Saint-Jean (métro de Lyon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8258904,
+          45.7599724
+        ]
+      },
+      "id": "node/3397995081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3397995082",
+        "funicular": "yes",
+        "name": "Vieux Lyon - Cathédrale Saint-Jean",
+        "network": "TCL",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "ref": "5095",
+        "wheelchair": "yes",
+        "wikidata": "Q2418969",
+        "wikipedia": "fr:Vieux Lyon - Cathédrale Saint-Jean (métro de Lyon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8257703,
+          45.7600559
+        ]
+      },
+      "id": "node/3397995082"
+    }
+  ]
+}

@@ -1,0 +1,4369 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-06-09T19:03:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050231",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8190408,
+          45.7405673
+        ]
+      },
+      "id": "node/16050231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050263",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8425387,
+          45.7549452
+        ]
+      },
+      "id": "node/16050263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050297",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.861941,
+          45.7666845
+        ]
+      },
+      "id": "node/16050297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050304",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.863054,
+          45.7709503
+        ]
+      },
+      "id": "node/16050304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050345",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8669658,
+          45.7779464
+        ]
+      },
+      "id": "node/16050345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050412",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8819664,
+          45.7868595
+        ]
+      },
+      "id": "node/16050412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050441",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8468802,
+          45.7436641
+        ]
+      },
+      "id": "node/16050441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050515",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2578549,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Grange Blanche",
+              "name": "Tram T5 : Grange Blanche ⇒ Eurexpo",
+              "network": "TCL",
+              "note": "Circule seulement les jours de salon à Eurexpo",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T5",
+              "route": "tram",
+              "to": "Eurexpo",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3238967",
+              "wikipedia": "fr:Ligne 5 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8839712,
+          45.7414928
+        ]
+      },
+      "id": "node/16050515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050542",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2578549,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Grange Blanche",
+              "name": "Tram T5 : Grange Blanche ⇒ Eurexpo",
+              "network": "TCL",
+              "note": "Circule seulement les jours de salon à Eurexpo",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T5",
+              "route": "tram",
+              "to": "Eurexpo",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3238967",
+              "wikipedia": "fr:Ligne 5 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.893181,
+          45.7388472
+        ]
+      },
+      "id": "node/16050542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050554",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2578549,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Grange Blanche",
+              "name": "Tram T5 : Grange Blanche ⇒ Eurexpo",
+              "network": "TCL",
+              "note": "Circule seulement les jours de salon à Eurexpo",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T5",
+              "route": "tram",
+              "to": "Eurexpo",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3238967",
+              "wikipedia": "fr:Ligne 5 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8981907,
+          45.7371987
+        ]
+      },
+      "id": "node/16050554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050561",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2578549,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Grange Blanche",
+              "name": "Tram T5 : Grange Blanche ⇒ Eurexpo",
+              "network": "TCL",
+              "note": "Circule seulement les jours de salon à Eurexpo",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T5",
+              "route": "tram",
+              "to": "Eurexpo",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3238967",
+              "wikipedia": "fr:Ligne 5 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9044755,
+          45.7349162
+        ]
+      },
+      "id": "node/16050561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050568",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2578549,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Grange Blanche",
+              "name": "Tram T5 : Grange Blanche ⇒ Eurexpo",
+              "network": "TCL",
+              "note": "Circule seulement les jours de salon à Eurexpo",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T5",
+              "route": "tram",
+              "to": "Eurexpo",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3238967",
+              "wikipedia": "fr:Ligne 5 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.909094,
+          45.7333853
+        ]
+      },
+      "id": "node/16050568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050570",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2578549,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Grange Blanche",
+              "name": "Tram T5 : Grange Blanche ⇒ Eurexpo",
+              "network": "TCL",
+              "note": "Circule seulement les jours de salon à Eurexpo",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T5",
+              "route": "tram",
+              "to": "Eurexpo",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3238967",
+              "wikipedia": "fr:Ligne 5 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9147395,
+          45.7315216
+        ]
+      },
+      "id": "node/16050570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050592",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.91564,
+          45.7275325
+        ]
+      },
+      "id": "node/16050592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050631",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9181638,
+          45.719607
+        ]
+      },
+      "id": "node/16050631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050665",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9360835,
+          45.6995925
+        ]
+      },
+      "id": "node/16050665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/16050710",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9558368,
+          45.6926405
+        ]
+      },
+      "id": "node/16050710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25719230",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8587789,
+          45.7398554
+        ]
+      },
+      "id": "node/25719230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32973979",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8721478,
+          45.7814923
+        ]
+      },
+      "id": "node/32973979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32973980",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8776632,
+          45.7824397
+        ]
+      },
+      "id": "node/32973980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33023099",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8831781,
+          45.7836537
+        ]
+      },
+      "id": "node/33023099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33062367",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8663444,
+          45.7808653
+        ]
+      },
+      "id": "node/33062367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33062368",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8640433,
+          45.7740693
+        ]
+      },
+      "id": "node/33062368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33062372",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8538132,
+          45.7606742
+        ]
+      },
+      "id": "node/33062372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33062706",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8483963,
+          45.7603239
+        ]
+      },
+      "id": "node/33062706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33062707",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8452808,
+          45.7601118
+        ]
+      },
+      "id": "node/33062707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33062708",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8424556,
+          45.758858
+        ]
+      },
+      "id": "node/33062708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33064206",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8410584,
+          45.7528829
+        ]
+      },
+      "id": "node/33064206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33064207",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8353379,
+          45.7497044
+        ]
+      },
+      "id": "node/33064207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33064208",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8245818,
+          45.7470663
+        ]
+      },
+      "id": "node/33064208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33064209",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8221469,
+          45.7442103
+        ]
+      },
+      "id": "node/33064209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33065114",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8517674,
+          45.7421032
+        ]
+      },
+      "id": "node/33065114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33065252",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8633209,
+          45.7384034
+        ]
+      },
+      "id": "node/33065252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33065416",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8683344,
+          45.7367974
+        ]
+      },
+      "id": "node/33065416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33065417",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8744774,
+          45.7401618
+        ]
+      },
+      "id": "node/33065417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33065510",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          },
+          {
+            "role": "stop_entry_only",
+            "rel": 2578549,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Grange Blanche",
+              "name": "Tram T5 : Grange Blanche ⇒ Eurexpo",
+              "network": "TCL",
+              "note": "Circule seulement les jours de salon à Eurexpo",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T5",
+              "route": "tram",
+              "to": "Eurexpo",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3238967",
+              "wikipedia": "fr:Ligne 5 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8795885,
+          45.7424421
+        ]
+      },
+      "id": "node/33065510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/47996326",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8363374,
+          45.74703
+        ]
+      },
+      "id": "node/47996326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/47997320",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8422859,
+          45.7451296
+        ]
+      },
+      "id": "node/47997320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/302027091",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9152732,
+          45.72203
+        ]
+      },
+      "id": "node/302027091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/304321454",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9376281,
+          45.7081407
+        ]
+      },
+      "id": "node/304321454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/306508867",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9348871,
+          45.7034262
+        ]
+      },
+      "id": "node/306508867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/339861071",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9368699,
+          45.6950411
+        ]
+      },
+      "id": "node/339861071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/339861838",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9406114,
+          45.6944765
+        ]
+      },
+      "id": "node/339861838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/339862440",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9497183,
+          45.6936545
+        ]
+      },
+      "id": "node/339862440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/339862782",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9468448,
+          45.6947061
+        ]
+      },
+      "id": "node/339862782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978081699",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8630183,
+          45.7709529
+        ]
+      },
+      "id": "node/1978081699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978081706",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8619039,
+          45.766685
+        ]
+      },
+      "id": "node/1978081706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978081720",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8668935,
+          45.7779369
+        ]
+      },
+      "id": "node/1978081720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978081746",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8721608,
+          45.7815207
+        ]
+      },
+      "id": "node/1978081746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978081750",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8640441,
+          45.7740997
+        ]
+      },
+      "id": "node/1978081750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978081763",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8620149,
+          45.7643245
+        ]
+      },
+      "id": "node/1978081763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978081770",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8663364,
+          45.7808956
+        ]
+      },
+      "id": "node/1978081770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1979249643",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9312413,
+          45.7143601
+        ]
+      },
+      "id": "node/1979249643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1979249644",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9257635,
+          45.7183798
+        ]
+      },
+      "id": "node/1979249644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1979441638",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5557270,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Gare Part-Dieu - Villette",
+              "name": "Tram T3 : Gare Part-Dieu Villette ⇒ Meyzieu les Panettes",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T3",
+              "route": "tram",
+              "to": "Meyzieu les Panettes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2911",
+              "wikipedia": "fr:Ligne 3 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9104776,
+          45.7584122
+        ]
+      },
+      "id": "node/1979441638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1979441639",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5557270,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Gare Part-Dieu - Villette",
+              "name": "Tram T3 : Gare Part-Dieu Villette ⇒ Meyzieu les Panettes",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T3",
+              "route": "tram",
+              "to": "Meyzieu les Panettes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2911",
+              "wikipedia": "fr:Ligne 3 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.868865,
+          45.7528883
+        ]
+      },
+      "id": "node/1979441639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1979441640",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 5557270,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Gare Part-Dieu - Villette",
+              "name": "Tram T3 : Gare Part-Dieu Villette ⇒ Meyzieu les Panettes",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T3",
+              "route": "tram",
+              "to": "Meyzieu les Panettes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2911",
+              "wikipedia": "fr:Ligne 3 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8619126,
+          45.7602344
+        ]
+      },
+      "id": "node/1979441640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1979441641",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5557270,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Gare Part-Dieu - Villette",
+              "name": "Tram T3 : Gare Part-Dieu Villette ⇒ Meyzieu les Panettes",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T3",
+              "route": "tram",
+              "to": "Meyzieu les Panettes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2911",
+              "wikipedia": "fr:Ligne 3 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8927121,
+          45.7559553
+        ]
+      },
+      "id": "node/1979441641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1979441642",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5557270,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Gare Part-Dieu - Villette",
+              "name": "Tram T3 : Gare Part-Dieu Villette ⇒ Meyzieu les Panettes",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T3",
+              "route": "tram",
+              "to": "Meyzieu les Panettes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2911",
+              "wikipedia": "fr:Ligne 3 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8852332,
+          45.7545627
+        ]
+      },
+      "id": "node/1979441642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1979441643",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5557270,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Gare Part-Dieu - Villette",
+              "name": "Tram T3 : Gare Part-Dieu Villette ⇒ Meyzieu les Panettes",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T3",
+              "route": "tram",
+              "to": "Meyzieu les Panettes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2911",
+              "wikipedia": "fr:Ligne 3 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9221831,
+          45.7609939
+        ]
+      },
+      "id": "node/1979441643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1979455517",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5557270,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Gare Part-Dieu - Villette",
+              "name": "Tram T3 : Gare Part-Dieu Villette ⇒ Meyzieu les Panettes",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T3",
+              "route": "tram",
+              "to": "Meyzieu les Panettes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2911",
+              "wikipedia": "fr:Ligne 3 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9759836,
+          45.7747013
+        ]
+      },
+      "id": "node/1979455517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1979455518",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5557270,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Gare Part-Dieu - Villette",
+              "name": "Tram T3 : Gare Part-Dieu Villette ⇒ Meyzieu les Panettes",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T3",
+              "route": "tram",
+              "to": "Meyzieu les Panettes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2911",
+              "wikipedia": "fr:Ligne 3 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9560219,
+          45.7718844
+        ]
+      },
+      "id": "node/1979455518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1980843970",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2523936,
+            "reltags": {
+              "colour": "#b80e28",
+              "from": "Aéroport Lyon Saint-Exupéry",
+              "name": "Rhônexpress : Aéroport Lyon - Saint-Exupéry -> Gare Part-Dieu - Villette",
+              "network": "Rhônexpress",
+              "operator": "CFTA Rhône",
+              "public_transport:version": "2",
+              "ref": "Rhônexpress",
+              "route": "light_rail",
+              "to": "Gare Part-Dieu - Villette",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q1559",
+              "wikipedia": "fr:Rhônexpress"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8620314,
+          45.7602839
+        ]
+      },
+      "id": "node/1980843970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1980843971",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5557270,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Gare Part-Dieu - Villette",
+              "name": "Tram T3 : Gare Part-Dieu Villette ⇒ Meyzieu les Panettes",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T3",
+              "route": "tram",
+              "to": "Meyzieu les Panettes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2911",
+              "wikipedia": "fr:Ligne 3 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0316718,
+          45.7676731
+        ]
+      },
+      "id": "node/1980843971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1980843972",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5557270,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Gare Part-Dieu - Villette",
+              "name": "Tram T3 : Gare Part-Dieu Villette ⇒ Meyzieu les Panettes",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T3",
+              "route": "tram",
+              "to": "Meyzieu les Panettes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2911",
+              "wikipedia": "fr:Ligne 3 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9990146,
+          45.7715807
+        ]
+      },
+      "id": "node/1980843972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1980994532",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2523936,
+            "reltags": {
+              "colour": "#b80e28",
+              "from": "Aéroport Lyon Saint-Exupéry",
+              "name": "Rhônexpress : Aéroport Lyon - Saint-Exupéry -> Gare Part-Dieu - Villette",
+              "network": "Rhônexpress",
+              "operator": "CFTA Rhône",
+              "public_transport:version": "2",
+              "ref": "Rhônexpress",
+              "route": "light_rail",
+              "to": "Gare Part-Dieu - Villette",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q1559",
+              "wikipedia": "fr:Rhônexpress"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0755092,
+          45.7210481
+        ]
+      },
+      "id": "node/1980994532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1980994539",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2523936,
+            "reltags": {
+              "colour": "#b80e28",
+              "from": "Aéroport Lyon Saint-Exupéry",
+              "name": "Rhônexpress : Aéroport Lyon - Saint-Exupéry -> Gare Part-Dieu - Villette",
+              "network": "Rhônexpress",
+              "operator": "CFTA Rhône",
+              "public_transport:version": "2",
+              "ref": "Rhônexpress",
+              "route": "light_rail",
+              "to": "Gare Part-Dieu - Villette",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q1559",
+              "wikipedia": "fr:Rhônexpress"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0316988,
+          45.767786
+        ]
+      },
+      "id": "node/1980994539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1980994556",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2523936,
+            "reltags": {
+              "colour": "#b80e28",
+              "from": "Aéroport Lyon Saint-Exupéry",
+              "name": "Rhônexpress : Aéroport Lyon - Saint-Exupéry -> Gare Part-Dieu - Villette",
+              "network": "Rhônexpress",
+              "operator": "CFTA Rhône",
+              "public_transport:version": "2",
+              "ref": "Rhônexpress",
+              "route": "light_rail",
+              "to": "Gare Part-Dieu - Villette",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q1559",
+              "wikipedia": "fr:Rhônexpress"
+            }
+          },
+          {
+            "role": "stop_exit_only",
+            "rel": 6794364,
+            "reltags": {
+              "from": "Parc Olympique Lyonnais",
+              "name": "Tram T3 : Parc Olympique Lyonnais ⇒ Vaulx-en-Velin - La Soie",
+              "network": "TCL",
+              "note": "Circule seulement les heures suivants un match au Parc Olympique Lyonnais",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "TGS",
+              "route": "tram",
+              "to": "Vaulx-en-Velin - La Soie",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9221515,
+          45.7610696
+        ]
+      },
+      "id": "node/1980994556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981090784",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8783747,
+          45.7155088
+        ]
+      },
+      "id": "node/1981090784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981090789",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8711111,
+          45.7248324
+        ]
+      },
+      "id": "node/1981090789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981090814",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8672885,
+          45.7297478
+        ]
+      },
+      "id": "node/1981090814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981090825",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8647379,
+          45.7330258
+        ]
+      },
+      "id": "node/1981090825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981090834",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8618293,
+          45.7367433
+        ]
+      },
+      "id": "node/1981090834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981104044",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.887712,
+          45.705666
+        ]
+      },
+      "id": "node/1981104044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981104067",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8821463,
+          45.7111249
+        ]
+      },
+      "id": "node/1981104067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981141922",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8754645,
+          45.6937892
+        ]
+      },
+      "id": "node/1981141922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981141927",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8876094,
+          45.7000446
+        ]
+      },
+      "id": "node/1981141927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981141929",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8591215,
+          45.7400909
+        ]
+      },
+      "id": "node/1981141929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981141935",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8798688,
+          45.6949285
+        ]
+      },
+      "id": "node/1981141935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981141939",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8845271,
+          45.6965134
+        ]
+      },
+      "id": "node/1981141939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981141943",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.871963,
+          45.6960212
+        ]
+      },
+      "id": "node/1981141943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981163329",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8643149,
+          45.6926306
+        ]
+      },
+      "id": "node/1981163329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981163330",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8681902,
+          45.6984421
+        ]
+      },
+      "id": "node/1981163330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981163331",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8651436,
+          45.6881608
+        ]
+      },
+      "id": "node/1981163331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981163332",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.861729,
+          45.6968212
+        ]
+      },
+      "id": "node/1981163332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981163333",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8633056,
+          45.6998659
+        ]
+      },
+      "id": "node/1981163333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2000610834",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8617389,
+          45.7542363
+        ]
+      },
+      "id": "node/2000610834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2000610836",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8590269,
+          45.7456623
+        ]
+      },
+      "id": "node/2000610836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2000610838",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8603071,
+          45.750151
+        ]
+      },
+      "id": "node/2000610838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2015681700",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2578549,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Grange Blanche",
+              "name": "Tram T5 : Grange Blanche ⇒ Eurexpo",
+              "network": "TCL",
+              "note": "Circule seulement les jours de salon à Eurexpo",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T5",
+              "route": "tram",
+              "to": "Eurexpo",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3238967",
+              "wikipedia": "fr:Ligne 5 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9170662,
+          45.7357637
+        ]
+      },
+      "id": "node/2015681700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2015681701",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 2578549,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Grange Blanche",
+              "name": "Tram T5 : Grange Blanche ⇒ Eurexpo",
+              "network": "TCL",
+              "note": "Circule seulement les jours de salon à Eurexpo",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T5",
+              "route": "tram",
+              "to": "Eurexpo",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3238967",
+              "wikipedia": "fr:Ligne 5 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9480314,
+          45.7318696
+        ]
+      },
+      "id": "node/2015681701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2015681703",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2578549,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Grange Blanche",
+              "name": "Tram T5 : Grange Blanche ⇒ Eurexpo",
+              "network": "TCL",
+              "note": "Circule seulement les jours de salon à Eurexpo",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T5",
+              "route": "tram",
+              "to": "Eurexpo",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3238967",
+              "wikipedia": "fr:Ligne 5 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9221983,
+          45.7380057
+        ]
+      },
+      "id": "node/2015681703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2015681705",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2578549,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Grange Blanche",
+              "name": "Tram T5 : Grange Blanche ⇒ Eurexpo",
+              "network": "TCL",
+              "note": "Circule seulement les jours de salon à Eurexpo",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T5",
+              "route": "tram",
+              "to": "Eurexpo",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q3238967",
+              "wikipedia": "fr:Ligne 5 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9266318,
+          45.7390015
+        ]
+      },
+      "id": "node/2015681705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2039895957",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8228353,
+          45.7317304
+        ]
+      },
+      "id": "node/2039895957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2039897264",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8346202,
+          45.7311852
+        ]
+      },
+      "id": "node/2039897264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2039898763",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8189123,
+          45.7336611
+        ]
+      },
+      "id": "node/2039898763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2336249399",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2519561,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Perrache",
+              "name": "Tram T2 : Perrache ⇒ Saint-Priest - Bel Air",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T2",
+              "route": "tram",
+              "to": "Saint-Priest - Bel Air",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2906",
+              "wikipedia": "fr:Ligne 2 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8270476,
+          45.7495322
+        ]
+      },
+      "id": "node/2336249399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2395887637",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2524191,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "La Doua - Gaston Berger",
+              "name": "Tram T4 : La Doua Gaston Berger ⇒ Hôpital Feyzin Vénissieux",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T4",
+              "route": "tram",
+              "to": "Hôpital Feyzin Vénissieux",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2918",
+              "wikipedia": "fr:Ligne 4 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8619393,
+          45.7607786
+        ]
+      },
+      "id": "node/2395887637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2441935805",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8620519,
+          45.7643156
+        ]
+      },
+      "id": "node/2441935805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2571357514",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8288348,
+          45.7314628
+        ]
+      },
+      "id": "node/2571357514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3070792203",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8389606,
+          45.7511473
+        ]
+      },
+      "id": "node/3070792203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6918554831",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8346435,
+          45.7312206
+        ]
+      },
+      "id": "node/6918554831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6918506362",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8436169,
+          45.7296414
+        ]
+      },
+      "id": "node/6918506362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6918506364",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8436129,
+          45.7296117
+        ]
+      },
+      "id": "node/6918506364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6919391617",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8533325,
+          45.7295598
+        ]
+      },
+      "id": "node/6919391617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6919391606",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.858903,
+          45.7310382
+        ]
+      },
+      "id": "node/6919391606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6919286725",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8672357,
+          45.7292172
+        ]
+      },
+      "id": "node/6919286725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6919286727",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8629907,
+          45.7277817
+        ]
+      },
+      "id": "node/6919286727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6920432664",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8735879,
+          45.7313816
+        ]
+      },
+      "id": "node/6920432664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6920432669",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8786782,
+          45.7331184
+        ]
+      },
+      "id": "node/6920432669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6551653490",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8825419,
+          45.7321394
+        ]
+      },
+      "id": "node/6551653490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6920432645",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8870603,
+          45.730686
+        ]
+      },
+      "id": "node/6920432645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6585156654",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1689215,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Debourg",
+              "name": "Tram T1 : Debourg ⇒ La Doua IUT - Feyssine",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T1",
+              "route": "tram",
+              "to": "IUT - Feyssine",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2903",
+              "wikipedia": "fr:Ligne 1 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8578556,
+          45.7619491
+        ]
+      },
+      "id": "node/6585156654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6920432623",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8924808,
+          45.7396226
+        ]
+      },
+      "id": "node/6920432623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6920432629",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8900814,
+          45.7356412
+        ]
+      },
+      "id": "node/6920432629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6920432594",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8941364,
+          45.7425224
+        ]
+      },
+      "id": "node/6920432594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6920432616",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 10218859,
+            "reltags": {
+              "from": "Debourg",
+              "name": "Tram T6 : Debourg ⇒ Hôpitaux Est",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T6",
+              "route": "tram",
+              "to": "Hôpitaux Est - Pinel",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q21657685",
+              "wikipedia": "fr:Ligne 6 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8968349,
+          45.7475491
+        ]
+      },
+      "id": "node/6920432616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6326936301",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 6794364,
+            "reltags": {
+              "from": "Parc Olympique Lyonnais",
+              "name": "Tram T3 : Parc Olympique Lyonnais ⇒ Vaulx-en-Velin - La Soie",
+              "network": "TCL",
+              "note": "Circule seulement les heures suivants un match au Parc Olympique Lyonnais",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "TGS",
+              "route": "tram",
+              "to": "Vaulx-en-Velin - La Soie",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9209032,
+          45.7608445
+        ]
+      },
+      "id": "node/6326936301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4554812224",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 6794364,
+            "reltags": {
+              "from": "Parc Olympique Lyonnais",
+              "name": "Tram T3 : Parc Olympique Lyonnais ⇒ Vaulx-en-Velin - La Soie",
+              "network": "TCL",
+              "note": "Circule seulement les heures suivants un match au Parc Olympique Lyonnais",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "TGS",
+              "route": "tram",
+              "to": "Vaulx-en-Velin - La Soie",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.981342,
+          45.7695661
+        ]
+      },
+      "id": "node/4554812224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4554812219",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 5557270,
+            "reltags": {
+              "colour": "#873F98",
+              "from": "Gare Part-Dieu - Villette",
+              "name": "Tram T3 : Gare Part-Dieu Villette ⇒ Meyzieu les Panettes",
+              "network": "TCL",
+              "operator": "Keolis",
+              "public_transport:version": "2",
+              "ref": "T3",
+              "route": "tram",
+              "to": "Meyzieu les Panettes",
+              "type": "route",
+              "wheelchair": "yes",
+              "wikidata": "Q2911",
+              "wikipedia": "fr:Ligne 3 du tramway de Lyon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0350002,
+          45.7661372
+        ]
+      },
+      "id": "node/4554812219"
+    }
+  ]
+}

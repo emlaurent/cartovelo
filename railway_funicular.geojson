@@ -1,0 +1,465 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-05-15T13:36:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4990740",
+        "covered": "yes",
+        "description": "funiculaire",
+        "incline": "18%",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8258904,
+            45.7599724
+          ],
+          [
+            4.825623,
+            45.7598948
+          ]
+        ]
+      },
+      "id": "way/4990740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4990741",
+        "covered": "yes",
+        "description": "funiculaire",
+        "gauge": "1000",
+        "incline": "31%",
+        "name": "Funiculaire de Fourvière",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8257703,
+            45.7600559
+          ],
+          [
+            4.8255993,
+            45.7600885
+          ]
+        ]
+      },
+      "id": "way/4990741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35538130",
+        "bridge": "yes",
+        "description": "funiculaire",
+        "incline": "18%",
+        "layer": "1",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.825623,
+            45.7598948
+          ],
+          [
+            4.8254819,
+            45.7598545
+          ]
+        ]
+      },
+      "id": "way/35538130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35538131",
+        "description": "funiculaire",
+        "gauge": "1000",
+        "incline": "18%",
+        "name": "Funiculaire Saint-Just",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8254819,
+            45.7598545
+          ],
+          [
+            4.825032,
+            45.7597215
+          ]
+        ]
+      },
+      "id": "way/35538131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35538132",
+        "bridge": "yes",
+        "description": "funiculaire",
+        "incline": "31%",
+        "layer": "1",
+        "name": "Funiculaire de Fourvière",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8255993,
+            45.7600885
+          ],
+          [
+            4.8254611,
+            45.760115
+          ]
+        ]
+      },
+      "id": "way/35538132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35538133",
+        "description": "funiculaire",
+        "gauge": "1000",
+        "incline": "31%",
+        "layer": "-1",
+        "name": "Funiculaire de Fourvière",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8250499,
+            45.760254
+          ],
+          [
+            4.8214827,
+            45.7623841
+          ]
+        ]
+      },
+      "id": "way/35538133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172852177",
+        "description": "funiculaire",
+        "incline": "31%",
+        "layer": "1",
+        "name": "Funiculaire de Fourvière",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8254611,
+            45.760115
+          ],
+          [
+            4.8253463,
+            45.7601436
+          ],
+          [
+            4.8252363,
+            45.7601759
+          ],
+          [
+            4.8251291,
+            45.7602152
+          ],
+          [
+            4.8250499,
+            45.760254
+          ]
+        ]
+      },
+      "id": "way/172852177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172852178",
+        "bicycle": "yes",
+        "description": "Funiculaire Saint-Just",
+        "incline": "5%",
+        "layer": "-1",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8211587,
+            45.7585743
+          ],
+          [
+            4.8164781,
+            45.7571997
+          ]
+        ]
+      },
+      "id": "way/172852178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172852180",
+        "description": "funiculaire",
+        "incline": "10%",
+        "layer": "-1",
+        "name": "Funiculaire Saint-Just",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.825032,
+            45.7597215
+          ],
+          [
+            4.8235559,
+            45.759283
+          ],
+          [
+            4.8235176,
+            45.7592719
+          ],
+          [
+            4.8223194,
+            45.7589251
+          ],
+          [
+            4.821611,
+            45.7587199
+          ]
+        ]
+      },
+      "id": "way/172852180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187064359",
+        "description": "Funiculaire Saint-Just",
+        "incline": "10%",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.821611,
+            45.7587199
+          ],
+          [
+            4.8215165,
+            45.7587016
+          ]
+        ]
+      },
+      "id": "way/187064359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187064361",
+        "description": "Funiculaire Saint-Just",
+        "incline": "5%",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8211587,
+            45.7585743
+          ],
+          [
+            4.8212804,
+            45.758609
+          ]
+        ]
+      },
+      "id": "way/187064361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187481740",
+        "description": "Funiculaire Saint-Just",
+        "incline": "-10%",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8213787,
+            45.7586372
+          ],
+          [
+            4.8215255,
+            45.7586794
+          ]
+        ]
+      },
+      "id": "way/187481740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187481741",
+        "description": "Funiculaire Saint-Just",
+        "incline": "5%",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8213695,
+            45.7586597
+          ],
+          [
+            4.8212918,
+            45.7586375
+          ]
+        ]
+      },
+      "id": "way/187481741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190031642",
+        "description": "Funiculaire Saint-Just",
+        "incline": "-10%",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8215255,
+            45.7586794
+          ],
+          [
+            4.821611,
+            45.7587199
+          ]
+        ]
+      },
+      "id": "way/190031642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190031647",
+        "description": "Funiculaire Saint-Just",
+        "incline": "5%",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8212804,
+            45.758609
+          ],
+          [
+            4.8213787,
+            45.7586372
+          ]
+        ]
+      },
+      "id": "way/190031647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190031651",
+        "description": "Funiculaire Saint-Just",
+        "incline": "10%",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8215165,
+            45.7587016
+          ],
+          [
+            4.8213695,
+            45.7586597
+          ]
+        ]
+      },
+      "id": "way/190031651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190031654",
+        "description": "Funiculaire Saint-Just",
+        "incline": "5%",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8212918,
+            45.7586375
+          ],
+          [
+            4.8212623,
+            45.7586291
+          ],
+          [
+            4.8211587,
+            45.7585743
+          ]
+        ]
+      },
+      "id": "way/190031654"
+    }
+  ]
+}

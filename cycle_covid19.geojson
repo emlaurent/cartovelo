@@ -1,0 +1,7301 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-12-05T17:55:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/3237103",
+        "cycleway": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Avenue Jean Jaurès",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8353739,
+            45.7342773
+          ],
+          [
+            4.8356039,
+            45.7346894
+          ],
+          [
+            4.8356931,
+            45.7348491
+          ],
+          [
+            4.8357308,
+            45.734914
+          ],
+          [
+            4.8357671,
+            45.7349748
+          ],
+          [
+            4.8360151,
+            45.7353821
+          ],
+          [
+            4.8364048,
+            45.7360236
+          ],
+          [
+            4.8364423,
+            45.7360854
+          ],
+          [
+            4.8364664,
+            45.7361266
+          ],
+          [
+            4.8368696,
+            45.7368047
+          ],
+          [
+            4.8368868,
+            45.7368438
+          ],
+          [
+            4.8371891,
+            45.7373401
+          ],
+          [
+            4.8372493,
+            45.7374389
+          ],
+          [
+            4.837344,
+            45.7376066
+          ],
+          [
+            4.8373627,
+            45.7376397
+          ],
+          [
+            4.8376165,
+            45.7380592
+          ],
+          [
+            4.8376489,
+            45.7381128
+          ],
+          [
+            4.8376914,
+            45.7381759
+          ]
+        ]
+      },
+      "id": "way/3237103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4360390",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "name": "Quai Jules Courmont",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.836902,
+            45.7572235
+          ],
+          [
+            4.8369615,
+            45.7573394
+          ],
+          [
+            4.8370121,
+            45.7574502
+          ],
+          [
+            4.8372206,
+            45.757895
+          ],
+          [
+            4.837511,
+            45.7585924
+          ],
+          [
+            4.8376296,
+            45.7590967
+          ]
+        ]
+      },
+      "id": "way/4360390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4360391",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "name": "Quai du Docteur Gailleton",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8344361,
+            45.7538111
+          ],
+          [
+            4.8347717,
+            45.7542231
+          ],
+          [
+            4.8351689,
+            45.7547424
+          ],
+          [
+            4.8351871,
+            45.7547662
+          ],
+          [
+            4.8359441,
+            45.755775
+          ]
+        ]
+      },
+      "id": "way/4360391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4360394",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Quai Jules Courmont",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through|through|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.838154,
+            45.7626573
+          ],
+          [
+            4.8381342,
+            45.7624033
+          ],
+          [
+            4.8380959,
+            45.7621071
+          ],
+          [
+            4.838068,
+            45.7619461
+          ],
+          [
+            4.8380296,
+            45.7616847
+          ],
+          [
+            4.837954,
+            45.7613351
+          ],
+          [
+            4.8379106,
+            45.7610985
+          ],
+          [
+            4.8378956,
+            45.7610169
+          ],
+          [
+            4.8378123,
+            45.760694
+          ],
+          [
+            4.8377827,
+            45.7605759
+          ]
+        ]
+      },
+      "id": "way/4360394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4360397",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "name": "Quai Jules Courmont",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.837513,
+            45.7593721
+          ],
+          [
+            4.8370467,
+            45.7583348
+          ],
+          [
+            4.8369012,
+            45.7579785
+          ],
+          [
+            4.8366397,
+            45.7574346
+          ],
+          [
+            4.8365475,
+            45.7573029
+          ]
+        ]
+      },
+      "id": "way/4360397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4370578",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "secondary",
+        "maxspeed": "30",
+        "name": "Quai du Docteur Gailleton",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8350915,
+            45.7558809
+          ],
+          [
+            4.8352545,
+            45.7558043
+          ],
+          [
+            4.8353081,
+            45.7557532
+          ],
+          [
+            4.835335,
+            45.7556987
+          ],
+          [
+            4.8353041,
+            45.7555772
+          ],
+          [
+            4.8350627,
+            45.7552238
+          ],
+          [
+            4.834949,
+            45.7550317
+          ],
+          [
+            4.8347322,
+            45.7546998
+          ],
+          [
+            4.834525,
+            45.7544316
+          ],
+          [
+            4.8344506,
+            45.7542866
+          ]
+        ]
+      },
+      "id": "way/4370578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4378823",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie cyclable temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Rue Duquesne",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "was:cycleway:right": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8514514,
+            45.7733158
+          ],
+          [
+            4.8512221,
+            45.7732849
+          ],
+          [
+            4.850967,
+            45.773261
+          ],
+          [
+            4.8507283,
+            45.7732426
+          ],
+          [
+            4.8499067,
+            45.7731719
+          ],
+          [
+            4.8497936,
+            45.7731625
+          ],
+          [
+            4.8496036,
+            45.7731443
+          ],
+          [
+            4.8490048,
+            45.7730921
+          ],
+          [
+            4.8489182,
+            45.7730845
+          ],
+          [
+            4.8488341,
+            45.7730767
+          ],
+          [
+            4.8483658,
+            45.7730332
+          ],
+          [
+            4.8482754,
+            45.7730249
+          ],
+          [
+            4.848171,
+            45.7730151
+          ],
+          [
+            4.8474963,
+            45.7729525
+          ],
+          [
+            4.8474107,
+            45.7729446
+          ]
+        ]
+      },
+      "id": "way/4378823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4488738",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard du 11 Novembre 1918",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8730737,
+            45.7791869
+          ],
+          [
+            4.8726988,
+            45.7791304
+          ],
+          [
+            4.8725895,
+            45.779114
+          ],
+          [
+            4.8724848,
+            45.7790982
+          ],
+          [
+            4.8723054,
+            45.7790706
+          ],
+          [
+            4.8720045,
+            45.779037
+          ],
+          [
+            4.8716768,
+            45.7790004
+          ],
+          [
+            4.8710278,
+            45.7789461
+          ],
+          [
+            4.870169,
+            45.7789086
+          ],
+          [
+            4.8700571,
+            45.7788989
+          ],
+          [
+            4.8686928,
+            45.7788883
+          ],
+          [
+            4.8667552,
+            45.7789892
+          ]
+        ]
+      },
+      "id": "way/4488738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4988808",
+        "bridge": "yes",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Route de Paris",
+        "oneway": "yes",
+        "ref": "D 307"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7728694,
+            45.7636922
+          ],
+          [
+            4.7724257,
+            45.7637276
+          ],
+          [
+            4.7721748,
+            45.7637578
+          ],
+          [
+            4.7715471,
+            45.7638546
+          ],
+          [
+            4.7708136,
+            45.7639678
+          ]
+        ]
+      },
+      "id": "way/4988808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4988809",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Route de Paris",
+        "old_ref": "RN7",
+        "oneway": "yes",
+        "ref": "D 307"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7693418,
+            45.7643078
+          ],
+          [
+            4.76916,
+            45.7644392
+          ],
+          [
+            4.7690025,
+            45.764659
+          ],
+          [
+            4.7689785,
+            45.7646865
+          ],
+          [
+            4.7687062,
+            45.7649365
+          ],
+          [
+            4.7683442,
+            45.7651278
+          ]
+        ]
+      },
+      "id": "way/4988809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4988820",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Route de Paris",
+        "oneway": "yes",
+        "ref": "D 307"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7728596,
+            45.7636193
+          ],
+          [
+            4.7735772,
+            45.7636106
+          ]
+        ]
+      },
+      "id": "way/4988820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4988825",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Route de Paris",
+        "oneway": "yes",
+        "ref": "D 307"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7735772,
+            45.7636106
+          ],
+          [
+            4.7728694,
+            45.7636922
+          ]
+        ]
+      },
+      "id": "way/4988825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4988834",
+        "bridge": "yes",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Route de Paris",
+        "oneway": "yes",
+        "ref": "D 307"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7707887,
+            45.763881
+          ],
+          [
+            4.7714583,
+            45.7637861
+          ],
+          [
+            4.7721701,
+            45.7636853
+          ],
+          [
+            4.7724052,
+            45.7636557
+          ],
+          [
+            4.7724274,
+            45.7636529
+          ],
+          [
+            4.7728596,
+            45.7636193
+          ]
+        ]
+      },
+      "id": "way/4988834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5002216",
+        "cycleway:right": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Boulevard des États-Unis",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.859418,
+            45.7395617
+          ],
+          [
+            4.8596181,
+            45.7393798
+          ],
+          [
+            4.8597377,
+            45.739236
+          ],
+          [
+            4.8597685,
+            45.739199
+          ],
+          [
+            4.859887,
+            45.7390541
+          ],
+          [
+            4.8599455,
+            45.7389831
+          ],
+          [
+            4.8606501,
+            45.7381274
+          ],
+          [
+            4.8614185,
+            45.7371391
+          ],
+          [
+            4.8617723,
+            45.736684
+          ],
+          [
+            4.8630799,
+            45.7350116
+          ],
+          [
+            4.8631052,
+            45.7349794
+          ],
+          [
+            4.8632598,
+            45.7347816
+          ]
+        ]
+      },
+      "id": "way/5002216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5098149",
+        "cycleway": "track",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Avenue Jean Mermoz",
+        "oneway": "yes",
+        "ref": "D 29",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9327509,
+            45.7441259
+          ],
+          [
+            4.9328859,
+            45.7440757
+          ],
+          [
+            4.9329917,
+            45.7440344
+          ],
+          [
+            4.9331271,
+            45.7439888
+          ],
+          [
+            4.9361068,
+            45.7434599
+          ]
+        ]
+      },
+      "id": "way/5098149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5984575",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cours André Philip",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8619277,
+            45.7727187
+          ],
+          [
+            4.8617996,
+            45.7727258
+          ],
+          [
+            4.8610898,
+            45.7727714
+          ],
+          [
+            4.8610113,
+            45.7727756
+          ],
+          [
+            4.8608893,
+            45.7727848
+          ],
+          [
+            4.8598337,
+            45.7728553
+          ],
+          [
+            4.859737,
+            45.7728592
+          ],
+          [
+            4.8596477,
+            45.7728649
+          ],
+          [
+            4.8594216,
+            45.772879
+          ],
+          [
+            4.8590878,
+            45.7728997
+          ],
+          [
+            4.8589334,
+            45.7728696
+          ]
+        ]
+      },
+      "id": "way/5984575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8584411",
+        "access": "no",
+        "bicycle": "yes",
+        "description:covid19": "Voie réservée temporairement aux vélos (marquage jaune au sol)",
+        "destination": "Lyon Centre",
+        "highway": "primary_link",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed": "50",
+        "maxweight": "7.5",
+        "name": "Boulevard Laurent Bonnevay",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8642289,
+            45.7849371
+          ],
+          [
+            4.8642069,
+            45.7849758
+          ],
+          [
+            4.8642024,
+            45.7850305
+          ],
+          [
+            4.864205,
+            45.7851045
+          ],
+          [
+            4.8641902,
+            45.7851827
+          ],
+          [
+            4.8641621,
+            45.7852536
+          ],
+          [
+            4.8641125,
+            45.785324
+          ],
+          [
+            4.8640445,
+            45.7853923
+          ],
+          [
+            4.8639627,
+            45.7854544
+          ],
+          [
+            4.8638533,
+            45.7855057
+          ],
+          [
+            4.8637384,
+            45.7855432
+          ]
+        ]
+      },
+      "id": "way/8584411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8682982",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Quai Jean Moulin",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.838402,
+            45.764649
+          ],
+          [
+            4.8384081,
+            45.7650198
+          ],
+          [
+            4.8384042,
+            45.7651111
+          ],
+          [
+            4.8383927,
+            45.7653804
+          ],
+          [
+            4.8383906,
+            45.7654506
+          ],
+          [
+            4.8383578,
+            45.7661472
+          ],
+          [
+            4.8383561,
+            45.7661828
+          ],
+          [
+            4.8383413,
+            45.7665196
+          ],
+          [
+            4.8382792,
+            45.7676605
+          ],
+          [
+            4.8382715,
+            45.7677432
+          ],
+          [
+            4.8382679,
+            45.7677743
+          ],
+          [
+            4.838267,
+            45.767821
+          ]
+        ]
+      },
+      "id": "way/8682982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/9105740",
+        "cycleway:right": "share_busway",
+        "description:covid19": "couloir bus vélo temporaire",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Boulevard de Parilly",
+        "oneway": "yes",
+        "ref": "D 102",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9026006,
+            45.7118463
+          ],
+          [
+            4.9023758,
+            45.7117313
+          ],
+          [
+            4.9020982,
+            45.711533
+          ],
+          [
+            4.9019884,
+            45.7114265
+          ],
+          [
+            4.9019397,
+            45.7113793
+          ],
+          [
+            4.9018793,
+            45.7113077
+          ]
+        ]
+      },
+      "id": "way/9105740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/9105751",
+        "cycleway:right": "share_busway",
+        "description:covid19": "couloir bus vélo temporaire",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Boulevard de Parilly",
+        "oneway": "yes",
+        "ref": "D 102",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9081128,
+            45.7168056
+          ],
+          [
+            4.9086256,
+            45.7172009
+          ],
+          [
+            4.909076,
+            45.7175809
+          ],
+          [
+            4.9091121,
+            45.7176068
+          ],
+          [
+            4.9092988,
+            45.717741
+          ]
+        ]
+      },
+      "id": "way/9105751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/9383687",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cours André Philip",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8589334,
+            45.7728696
+          ],
+          [
+            4.8590787,
+            45.7728244
+          ],
+          [
+            4.8596339,
+            45.7727889
+          ],
+          [
+            4.8597307,
+            45.7727814
+          ],
+          [
+            4.8598295,
+            45.7727755
+          ],
+          [
+            4.8604915,
+            45.7727324
+          ],
+          [
+            4.8608759,
+            45.7727103
+          ],
+          [
+            4.860999,
+            45.7727056
+          ],
+          [
+            4.8610965,
+            45.7726981
+          ],
+          [
+            4.8617848,
+            45.7726462
+          ],
+          [
+            4.8619244,
+            45.772632
+          ]
+        ]
+      },
+      "id": "way/9383687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/10559822",
+        "cycleway": "lane",
+        "description:covid19": "Bande cyclable temporaire",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "name": "Rond-Point Général de Gaulle",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8905836,
+            45.8170176
+          ],
+          [
+            4.8905663,
+            45.816949
+          ],
+          [
+            4.8905778,
+            45.8168672
+          ],
+          [
+            4.890623,
+            45.8167912
+          ],
+          [
+            4.890698,
+            45.8167277
+          ],
+          [
+            4.8908009,
+            45.8166807
+          ],
+          [
+            4.8909194,
+            45.8166576
+          ],
+          [
+            4.8910465,
+            45.8166612
+          ],
+          [
+            4.8911657,
+            45.8166924
+          ],
+          [
+            4.8912648,
+            45.8167481
+          ],
+          [
+            4.8913338,
+            45.8168226
+          ],
+          [
+            4.8913659,
+            45.8169084
+          ],
+          [
+            4.8913564,
+            45.8170011
+          ],
+          [
+            4.8913038,
+            45.8170865
+          ],
+          [
+            4.8912139,
+            45.8171552
+          ],
+          [
+            4.8911261,
+            45.8171916
+          ],
+          [
+            4.891028,
+            45.8172113
+          ],
+          [
+            4.8909048,
+            45.8172112
+          ],
+          [
+            4.8907875,
+            45.8171851
+          ],
+          [
+            4.8906871,
+            45.8171354
+          ],
+          [
+            4.8906248,
+            45.817081
+          ],
+          [
+            4.8905836,
+            45.8170176
+          ]
+        ]
+      },
+      "id": "way/10559822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23133052",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8445081,
+            45.7779861
+          ],
+          [
+            4.8445783,
+            45.7780852
+          ],
+          [
+            4.8450707,
+            45.7788285
+          ],
+          [
+            4.8456263,
+            45.7795607
+          ],
+          [
+            4.8459052,
+            45.7800433
+          ],
+          [
+            4.8464417,
+            45.7809786
+          ],
+          [
+            4.8466717,
+            45.7813517
+          ],
+          [
+            4.8467007,
+            45.7813987
+          ],
+          [
+            4.8467651,
+            45.7814958
+          ]
+        ]
+      },
+      "id": "way/23133052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43763744",
+        "cycleway": "lane",
+        "description:covid19": "bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Avenue Jean Jaurès",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8402232,
+            45.7424298
+          ],
+          [
+            4.8402528,
+            45.7424788
+          ],
+          [
+            4.8402917,
+            45.7425436
+          ],
+          [
+            4.8403604,
+            45.7426582
+          ],
+          [
+            4.8403753,
+            45.742683
+          ],
+          [
+            4.8409763,
+            45.7436845
+          ],
+          [
+            4.8410142,
+            45.7437476
+          ]
+        ]
+      },
+      "id": "way/43763744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/50640395",
+        "cycleway:right": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard des États-Unis",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8633423,
+            45.734671
+          ],
+          [
+            4.8634122,
+            45.7345847
+          ],
+          [
+            4.8634775,
+            45.734504
+          ]
+        ]
+      },
+      "id": "way/50640395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/50640405",
+        "cycleway:right": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Boulevard des États-Unis",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8675362,
+            45.7292885
+          ],
+          [
+            4.8676124,
+            45.7291894
+          ],
+          [
+            4.8677728,
+            45.7289733
+          ],
+          [
+            4.868497,
+            45.7280206
+          ],
+          [
+            4.8692206,
+            45.7271087
+          ],
+          [
+            4.8693069,
+            45.7269996
+          ],
+          [
+            4.8693917,
+            45.7268921
+          ],
+          [
+            4.8705759,
+            45.7253925
+          ],
+          [
+            4.870692,
+            45.7252331
+          ],
+          [
+            4.8709517,
+            45.7248764
+          ]
+        ]
+      },
+      "id": "way/50640405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/50640410",
+        "cycleway:right": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Boulevard des États-Unis",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8676342,
+            45.7294929
+          ],
+          [
+            4.8675912,
+            45.7295521
+          ],
+          [
+            4.8674006,
+            45.7298076
+          ],
+          [
+            4.8671702,
+            45.7301005
+          ],
+          [
+            4.8663613,
+            45.731129
+          ],
+          [
+            4.8662718,
+            45.7312428
+          ],
+          [
+            4.8661692,
+            45.731375
+          ],
+          [
+            4.8660795,
+            45.7314904
+          ],
+          [
+            4.8658835,
+            45.7317367
+          ],
+          [
+            4.865783,
+            45.7318645
+          ],
+          [
+            4.8657114,
+            45.7319556
+          ],
+          [
+            4.8656358,
+            45.7320543
+          ],
+          [
+            4.865543,
+            45.7321754
+          ],
+          [
+            4.8653305,
+            45.7324527
+          ],
+          [
+            4.865246,
+            45.7325629
+          ],
+          [
+            4.8651656,
+            45.7326679
+          ],
+          [
+            4.8650954,
+            45.7327572
+          ],
+          [
+            4.8650016,
+            45.7328767
+          ],
+          [
+            4.8647808,
+            45.7331579
+          ],
+          [
+            4.8646887,
+            45.7332788
+          ],
+          [
+            4.8646033,
+            45.733391
+          ],
+          [
+            4.8645408,
+            45.7334724
+          ],
+          [
+            4.8642315,
+            45.7338757
+          ],
+          [
+            4.8636648,
+            45.734613
+          ],
+          [
+            4.8636255,
+            45.7346642
+          ],
+          [
+            4.8634775,
+            45.7348483
+          ]
+        ]
+      },
+      "id": "way/50640410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/50651390",
+        "cycleway:right": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard des États-Unis",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8634775,
+            45.7348483
+          ],
+          [
+            4.8633899,
+            45.7349515
+          ]
+        ]
+      },
+      "id": "way/50651390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78183717",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:psv": "1",
+        "maxspeed": "50",
+        "name": "Quai du Docteur Gailleton",
+        "oneway": "yes",
+        "source:maxspeed": "sign",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8322537,
+            45.7506375
+          ],
+          [
+            4.8323037,
+            45.7507097
+          ],
+          [
+            4.8329183,
+            45.751607
+          ],
+          [
+            4.8333367,
+            45.7522146
+          ]
+        ]
+      },
+      "id": "way/78183717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/82489990",
+        "cycleway:right": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "1",
+        "maxspeed": "30",
+        "name": "Rue de la Barre",
+        "oneway": "yes",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt",
+        "zone:maxspeed": "FR:30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8365475,
+            45.7573029
+          ],
+          [
+            4.8363442,
+            45.7573547
+          ],
+          [
+            4.8362528,
+            45.7573793
+          ],
+          [
+            4.8358851,
+            45.7574777
+          ],
+          [
+            4.8354395,
+            45.757597
+          ],
+          [
+            4.8353727,
+            45.757616
+          ],
+          [
+            4.8353112,
+            45.7576324
+          ],
+          [
+            4.834905,
+            45.7577405
+          ],
+          [
+            4.8342945,
+            45.7579045
+          ]
+        ]
+      },
+      "id": "way/82489990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/88375463",
+        "cycleway:right": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Boulevard des États-Unis",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8638494,
+            45.7340196
+          ],
+          [
+            4.8640431,
+            45.7337691
+          ],
+          [
+            4.8642304,
+            45.7335263
+          ],
+          [
+            4.8643288,
+            45.7333987
+          ],
+          [
+            4.8644033,
+            45.7333021
+          ],
+          [
+            4.864482,
+            45.7332023
+          ],
+          [
+            4.8645787,
+            45.7330797
+          ],
+          [
+            4.8646142,
+            45.733036
+          ],
+          [
+            4.8648014,
+            45.7327973
+          ],
+          [
+            4.8648823,
+            45.7326819
+          ],
+          [
+            4.8649524,
+            45.732582
+          ],
+          [
+            4.8650304,
+            45.7324845
+          ],
+          [
+            4.865125,
+            45.7323663
+          ],
+          [
+            4.8653328,
+            45.7321066
+          ],
+          [
+            4.8654316,
+            45.7319832
+          ],
+          [
+            4.8655098,
+            45.7318854
+          ],
+          [
+            4.8655829,
+            45.7317927
+          ],
+          [
+            4.865671,
+            45.7316811
+          ],
+          [
+            4.8658791,
+            45.7314173
+          ],
+          [
+            4.865969,
+            45.7313033
+          ],
+          [
+            4.8660774,
+            45.7311662
+          ],
+          [
+            4.8661623,
+            45.7310537
+          ],
+          [
+            4.8664161,
+            45.7307179
+          ],
+          [
+            4.8669239,
+            45.7300697
+          ],
+          [
+            4.8669613,
+            45.730022
+          ],
+          [
+            4.8673464,
+            45.7295303
+          ],
+          [
+            4.8673859,
+            45.7294797
+          ],
+          [
+            4.8674366,
+            45.729413
+          ]
+        ]
+      },
+      "id": "way/88375463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92194787",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Quai du Docteur Gailleton",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left|left;through;right|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8361701,
+            45.7560876
+          ],
+          [
+            4.8368294,
+            45.7570765
+          ],
+          [
+            4.8368424,
+            45.7570974
+          ],
+          [
+            4.836902,
+            45.7572235
+          ]
+        ]
+      },
+      "id": "way/92194787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92194788",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "layer": "-1",
+        "name": "Quai du Docteur Gailleton",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8359441,
+            45.755775
+          ],
+          [
+            4.8361701,
+            45.7560876
+          ]
+        ]
+      },
+      "id": "way/92194788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/112243352",
+        "cycleway:right": "share_busway",
+        "description:covid19": "couloir bus vélo temporaire",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Boulevard de Parilly",
+        "oneway": "yes",
+        "ref": "D 102",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.902178,
+            45.7113333
+          ],
+          [
+            4.9023989,
+            45.7116085
+          ],
+          [
+            4.9026006,
+            45.7118463
+          ]
+        ]
+      },
+      "id": "way/112243352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/123331973",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Quai du Docteur Gailleton",
+        "oneway": "yes",
+        "source:maxspeed": "sign",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8339514,
+            45.7535793
+          ],
+          [
+            4.8337706,
+            45.7533116
+          ],
+          [
+            4.8337008,
+            45.7532045
+          ],
+          [
+            4.8335926,
+            45.7530443
+          ],
+          [
+            4.8335334,
+            45.7529579
+          ],
+          [
+            4.8332607,
+            45.7525666
+          ],
+          [
+            4.8330545,
+            45.752271
+          ],
+          [
+            4.8330223,
+            45.7522252
+          ],
+          [
+            4.832998,
+            45.7521906
+          ],
+          [
+            4.8329257,
+            45.7520862
+          ],
+          [
+            4.8326459,
+            45.7516822
+          ],
+          [
+            4.8325402,
+            45.7515296
+          ],
+          [
+            4.8325212,
+            45.7514988
+          ],
+          [
+            4.8320854,
+            45.7508491
+          ],
+          [
+            4.8320629,
+            45.7508179
+          ],
+          [
+            4.8320045,
+            45.7507347
+          ],
+          [
+            4.8319681,
+            45.7506796
+          ],
+          [
+            4.8319348,
+            45.7506291
+          ],
+          [
+            4.8319086,
+            45.7505933
+          ],
+          [
+            4.8318922,
+            45.7505709
+          ],
+          [
+            4.8316125,
+            45.7501683
+          ],
+          [
+            4.8313659,
+            45.7498167
+          ],
+          [
+            4.8313259,
+            45.7497597
+          ],
+          [
+            4.8310721,
+            45.7494273
+          ]
+        ]
+      },
+      "id": "way/123331973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/123698345",
+        "cycleway:right": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Boulevard des États-Unis",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8633899,
+            45.7349515
+          ],
+          [
+            4.8633144,
+            45.7350512
+          ],
+          [
+            4.8631023,
+            45.7353312
+          ],
+          [
+            4.8615729,
+            45.7372804
+          ],
+          [
+            4.8612827,
+            45.7376631
+          ],
+          [
+            4.8600668,
+            45.7391783
+          ],
+          [
+            4.8598398,
+            45.739427
+          ]
+        ]
+      },
+      "id": "way/123698345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125180099",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Quai du Docteur Gailleton",
+        "oneway": "yes",
+        "source": "survey",
+        "source:maxspeed": "sign",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8333367,
+            45.7522146
+          ],
+          [
+            4.8337215,
+            45.7527868
+          ],
+          [
+            4.8337608,
+            45.752845
+          ],
+          [
+            4.8337782,
+            45.7528651
+          ]
+        ]
+      },
+      "id": "way/125180099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138230701",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard du 11 Novembre 1918",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8652102,
+            45.7790013
+          ],
+          [
+            4.8666056,
+            45.778889
+          ],
+          [
+            4.8666617,
+            45.7788869
+          ],
+          [
+            4.8667002,
+            45.7788855
+          ],
+          [
+            4.8667793,
+            45.7788826
+          ],
+          [
+            4.8671744,
+            45.7788645
+          ],
+          [
+            4.8686848,
+            45.7787952
+          ],
+          [
+            4.8693579,
+            45.7787962
+          ],
+          [
+            4.8700706,
+            45.7787973
+          ],
+          [
+            4.8701772,
+            45.7788031
+          ],
+          [
+            4.871029,
+            45.7788499
+          ],
+          [
+            4.8716581,
+            45.7789115
+          ],
+          [
+            4.8719234,
+            45.7789392
+          ],
+          [
+            4.8722477,
+            45.7789746
+          ],
+          [
+            4.8723319,
+            45.7789838
+          ],
+          [
+            4.8725187,
+            45.7790114
+          ],
+          [
+            4.8725887,
+            45.7790216
+          ],
+          [
+            4.872836,
+            45.7790576
+          ],
+          [
+            4.87359,
+            45.7791732
+          ],
+          [
+            4.8738873,
+            45.7792285
+          ],
+          [
+            4.8741607,
+            45.7792794
+          ],
+          [
+            4.8745627,
+            45.7793436
+          ],
+          [
+            4.8746497,
+            45.7793284
+          ]
+        ]
+      },
+      "id": "way/138230701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138230703",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard du 11 Novembre 1918",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.859664,
+            45.7795216
+          ],
+          [
+            4.8598587,
+            45.7795047
+          ],
+          [
+            4.8602141,
+            45.7794717
+          ],
+          [
+            4.8605002,
+            45.7794452
+          ],
+          [
+            4.8622888,
+            45.7792689
+          ],
+          [
+            4.8623732,
+            45.7792612
+          ],
+          [
+            4.8625513,
+            45.7792431
+          ]
+        ]
+      },
+      "id": "way/138230703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152848482",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "1",
+        "maxheight": "4.2",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8443288,
+            45.7781668
+          ],
+          [
+            4.8442024,
+            45.7778979
+          ]
+        ]
+      },
+      "id": "way/152848482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158068064",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Avenue de la République",
+        "oneway": "yes",
+        "ref": "D 307",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7808122,
+            45.7639783
+          ],
+          [
+            4.7809564,
+            45.7639632
+          ],
+          [
+            4.7810845,
+            45.7639655
+          ],
+          [
+            4.7811864,
+            45.7639702
+          ],
+          [
+            4.7813722,
+            45.7639679
+          ]
+        ]
+      },
+      "id": "way/158068064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158068066",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Avenue de la République",
+        "oneway": "yes",
+        "ref": "D 307",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7813958,
+            45.7640541
+          ],
+          [
+            4.7811817,
+            45.7640268
+          ],
+          [
+            4.7809528,
+            45.7640133
+          ],
+          [
+            4.7808122,
+            45.7639783
+          ]
+        ]
+      },
+      "id": "way/158068066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158068067",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "maxspeed": "50",
+        "maxweight": "3.5",
+        "name": "Avenue de la République",
+        "ref": "D 307",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7735772,
+            45.7636106
+          ],
+          [
+            4.7742901,
+            45.7636509
+          ],
+          [
+            4.7747787,
+            45.7636785
+          ],
+          [
+            4.7754347,
+            45.7637097
+          ],
+          [
+            4.7755271,
+            45.7637147
+          ],
+          [
+            4.7765737,
+            45.7637718
+          ],
+          [
+            4.7768607,
+            45.7637874
+          ],
+          [
+            4.776974,
+            45.7637936
+          ],
+          [
+            4.777109,
+            45.7638003
+          ],
+          [
+            4.7773108,
+            45.7638096
+          ],
+          [
+            4.7783476,
+            45.7638577
+          ],
+          [
+            4.7785873,
+            45.7638817
+          ],
+          [
+            4.7786264,
+            45.7638829
+          ],
+          [
+            4.7787242,
+            45.763886
+          ],
+          [
+            4.778848,
+            45.76389
+          ],
+          [
+            4.7791999,
+            45.7638988
+          ],
+          [
+            4.7793331,
+            45.7639054
+          ],
+          [
+            4.7808122,
+            45.7639783
+          ]
+        ]
+      },
+      "id": "way/158068067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163250261",
+        "access": "no",
+        "bicycle": "yes",
+        "description:covid19": "Voie réservée temporairement aux vélos (marquage jaune au sol)",
+        "destination": "Lyon Centre",
+        "highway": "primary_link",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed": "50",
+        "maxweight": "7.5",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8637384,
+            45.7855432
+          ],
+          [
+            4.863636,
+            45.7855652
+          ],
+          [
+            4.8634972,
+            45.7855761
+          ],
+          [
+            4.8633521,
+            45.7855651
+          ],
+          [
+            4.8632835,
+            45.7855536
+          ],
+          [
+            4.8632245,
+            45.7855383
+          ],
+          [
+            4.8631498,
+            45.7855161
+          ],
+          [
+            4.8630886,
+            45.785491
+          ],
+          [
+            4.8630565,
+            45.7854789
+          ],
+          [
+            4.8630322,
+            45.7854698
+          ],
+          [
+            4.8629732,
+            45.7854636
+          ],
+          [
+            4.8629112,
+            45.7854759
+          ]
+        ]
+      },
+      "id": "way/163250261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172905266",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8440587,
+            45.7775595
+          ],
+          [
+            4.8438673,
+            45.7770205
+          ],
+          [
+            4.8438049,
+            45.7767975
+          ],
+          [
+            4.8437771,
+            45.7767305
+          ]
+        ]
+      },
+      "id": "way/172905266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/185194351",
+        "cycleway:right": "share_busway",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Avenue Jean Mermoz",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8693357,
+            45.7363979
+          ],
+          [
+            4.8697408,
+            45.7362462
+          ],
+          [
+            4.8719997,
+            45.7355265
+          ],
+          [
+            4.8720561,
+            45.7355082
+          ],
+          [
+            4.8724305,
+            45.735387
+          ],
+          [
+            4.8734822,
+            45.7350496
+          ],
+          [
+            4.8737447,
+            45.7349654
+          ],
+          [
+            4.8738311,
+            45.7349377
+          ],
+          [
+            4.8739545,
+            45.7348981
+          ]
+        ]
+      },
+      "id": "way/185194351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/186163186",
+        "cycleway:right": "share_busway",
+        "description:covid19": "couloir bus vélo temporaire",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Avenue Pierre Mendès-France",
+        "oneway": "yes",
+        "ref": "D 102",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9104753,
+            45.7186986
+          ],
+          [
+            4.910324,
+            45.7185999
+          ],
+          [
+            4.9093194,
+            45.7178725
+          ],
+          [
+            4.9092015,
+            45.7177824
+          ]
+        ]
+      },
+      "id": "way/186163186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/188627874",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Jean Moulin",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt",
+        "zone:maxspeed": "FR:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8380818,
+            45.7661797
+          ],
+          [
+            4.8380831,
+            45.7661387
+          ],
+          [
+            4.8381028,
+            45.7654973
+          ],
+          [
+            4.8381056,
+            45.76542
+          ],
+          [
+            4.8381185,
+            45.7651077
+          ],
+          [
+            4.8381185,
+            45.7651066
+          ],
+          [
+            4.8381215,
+            45.7650344
+          ]
+        ]
+      },
+      "id": "way/188627874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/188726313",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "5",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Quai Jules Courmont",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "ref": "D 506",
+        "surface": "asphalt",
+        "turn:lanes": "through|through|through|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8377408,
+            45.7603
+          ],
+          [
+            4.8377132,
+            45.7601785
+          ]
+        ]
+      },
+      "id": "way/188726313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/188726314",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "5",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Quai Jules Courmont",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through|through|through|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8377663,
+            45.7604512
+          ],
+          [
+            4.8377539,
+            45.7603567
+          ],
+          [
+            4.8377408,
+            45.7603
+          ]
+        ]
+      },
+      "id": "way/188726314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/188726316",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Quai Jules Courmont",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8377132,
+            45.7601785
+          ],
+          [
+            4.8377011,
+            45.7601249
+          ],
+          [
+            4.8376616,
+            45.7599965
+          ],
+          [
+            4.8376486,
+            45.7599543
+          ],
+          [
+            4.8375778,
+            45.7596316
+          ],
+          [
+            4.837513,
+            45.7593721
+          ]
+        ]
+      },
+      "id": "way/188726316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/189636652",
+        "cycleway": "lane",
+        "description:covid19": "bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Avenue Jean Jaurès",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8376914,
+            45.7381759
+          ],
+          [
+            4.8377307,
+            45.738251
+          ],
+          [
+            4.8377732,
+            45.7383196
+          ],
+          [
+            4.83783,
+            45.7384226
+          ],
+          [
+            4.8378706,
+            45.738496
+          ],
+          [
+            4.8378861,
+            45.7385221
+          ],
+          [
+            4.8379225,
+            45.7385834
+          ],
+          [
+            4.8379317,
+            45.7386017
+          ],
+          [
+            4.8380016,
+            45.7387162
+          ],
+          [
+            4.8380424,
+            45.7387853
+          ],
+          [
+            4.8382922,
+            45.7391858
+          ],
+          [
+            4.8383239,
+            45.7392386
+          ],
+          [
+            4.8387689,
+            45.7399799
+          ],
+          [
+            4.838807,
+            45.7400437
+          ],
+          [
+            4.8388213,
+            45.7400708
+          ],
+          [
+            4.8388607,
+            45.7401328
+          ],
+          [
+            4.8392816,
+            45.7408449
+          ],
+          [
+            4.8397462,
+            45.7416297
+          ]
+        ]
+      },
+      "id": "way/189636652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190001754",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Avenue Gabriel Péri",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9123656,
+            45.7725752
+          ],
+          [
+            4.9121831,
+            45.7725081
+          ],
+          [
+            4.9120763,
+            45.7724323
+          ],
+          [
+            4.9119561,
+            45.7723632
+          ],
+          [
+            4.9119129,
+            45.7723384
+          ],
+          [
+            4.9116608,
+            45.7722258
+          ],
+          [
+            4.9114219,
+            45.7721558
+          ]
+        ]
+      },
+      "id": "way/190001754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207002363",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Quai Jules Courmont",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8379393,
+            45.7601703
+          ],
+          [
+            4.8379738,
+            45.7603152
+          ],
+          [
+            4.8379958,
+            45.7604249
+          ],
+          [
+            4.8379999,
+            45.7604412
+          ],
+          [
+            4.838052,
+            45.7606472
+          ],
+          [
+            4.8381484,
+            45.7610519
+          ],
+          [
+            4.8382951,
+            45.7616679
+          ],
+          [
+            4.8383512,
+            45.7620003
+          ],
+          [
+            4.8383702,
+            45.7621132
+          ],
+          [
+            4.8384051,
+            45.762364
+          ],
+          [
+            4.8384239,
+            45.762611
+          ],
+          [
+            4.8384292,
+            45.7628
+          ],
+          [
+            4.8384464,
+            45.7630235
+          ]
+        ]
+      },
+      "id": "way/207002363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207244782",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard du 11 Novembre 1918",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8627437,
+            45.7793422
+          ],
+          [
+            4.862393,
+            45.7793702
+          ],
+          [
+            4.8611631,
+            45.7794794
+          ],
+          [
+            4.8609145,
+            45.7795034
+          ],
+          [
+            4.8607859,
+            45.7795159
+          ]
+        ]
+      },
+      "id": "way/207244782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207910294",
+        "cycleway:right": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard des États-Unis",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8632598,
+            45.7347816
+          ],
+          [
+            4.8633423,
+            45.734671
+          ]
+        ]
+      },
+      "id": "way/207910294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218997688",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard du 11 Novembre 1918",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8651547,
+            45.7791091
+          ],
+          [
+            4.8630089,
+            45.7793181
+          ],
+          [
+            4.8629558,
+            45.7793219
+          ],
+          [
+            4.8627437,
+            45.7793422
+          ]
+        ]
+      },
+      "id": "way/218997688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218997689",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard du 11 Novembre 1918",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8667552,
+            45.7789892
+          ],
+          [
+            4.8666731,
+            45.7789946
+          ],
+          [
+            4.8666313,
+            45.7789974
+          ],
+          [
+            4.8665886,
+            45.7790002
+          ],
+          [
+            4.8661834,
+            45.7790301
+          ],
+          [
+            4.8654085,
+            45.7790873
+          ],
+          [
+            4.8651547,
+            45.7791091
+          ]
+        ]
+      },
+      "id": "way/218997689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/234025022",
+        "access": "no",
+        "bicycle": "yes",
+        "description:covid19": "piste cyclable temporaire",
+        "emergency": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "oneway": "yes",
+        "psv": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.858365,
+            45.7455164
+          ],
+          [
+            4.8582872,
+            45.7452763
+          ],
+          [
+            4.8581891,
+            45.7449504
+          ],
+          [
+            4.8581674,
+            45.7446413
+          ],
+          [
+            4.8581422,
+            45.7445515
+          ],
+          [
+            4.8579241,
+            45.743776
+          ],
+          [
+            4.8578424,
+            45.7436874
+          ],
+          [
+            4.8576344,
+            45.7429439
+          ],
+          [
+            4.8575713,
+            45.7427404
+          ],
+          [
+            4.8575028,
+            45.7425197
+          ],
+          [
+            4.8574489,
+            45.7424283
+          ]
+        ]
+      },
+      "id": "way/234025022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/250777278",
+        "cycleway": "lane",
+        "description:covid19": "Bandes cyclables temporaires",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Cours de la République",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8736971,
+            45.7705749
+          ],
+          [
+            4.8736985,
+            45.7705459
+          ],
+          [
+            4.8737007,
+            45.7705013
+          ],
+          [
+            4.8737035,
+            45.7704432
+          ],
+          [
+            4.8737315,
+            45.769869
+          ],
+          [
+            4.8737351,
+            45.7697959
+          ],
+          [
+            4.8737386,
+            45.7697238
+          ],
+          [
+            4.8737433,
+            45.7696539
+          ],
+          [
+            4.8737442,
+            45.7696378
+          ],
+          [
+            4.8738711,
+            45.7674608
+          ],
+          [
+            4.8738725,
+            45.7674378
+          ],
+          [
+            4.8738787,
+            45.7673307
+          ],
+          [
+            4.873884,
+            45.767228
+          ],
+          [
+            4.8738854,
+            45.7672005
+          ],
+          [
+            4.8739464,
+            45.7660113
+          ],
+          [
+            4.8739934,
+            45.765422
+          ],
+          [
+            4.8739987,
+            45.7653564
+          ],
+          [
+            4.8740061,
+            45.7652633
+          ]
+        ]
+      },
+      "id": "way/250777278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/250958082",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie cyclable temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Rue Duquesne",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt",
+        "was:busway:right": "lane",
+        "was:cycleway": "share_busway",
+        "zone:maxspeed": "FR:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8430779,
+            45.7725424
+          ],
+          [
+            4.8429261,
+            45.7725283
+          ],
+          [
+            4.8427546,
+            45.7725124
+          ],
+          [
+            4.8423234,
+            45.7724719
+          ],
+          [
+            4.8422728,
+            45.7724676
+          ],
+          [
+            4.8421643,
+            45.7724576
+          ]
+        ]
+      },
+      "id": "way/250958082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/250958083",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie cyclable temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Rue Duquesne",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "was:cycleway:right": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.843095,
+            45.7724599
+          ],
+          [
+            4.8432446,
+            45.7724737
+          ],
+          [
+            4.8435933,
+            45.772506
+          ],
+          [
+            4.8442085,
+            45.772563
+          ],
+          [
+            4.8443016,
+            45.7725717
+          ],
+          [
+            4.8444056,
+            45.772581
+          ],
+          [
+            4.8452395,
+            45.7726586
+          ],
+          [
+            4.8453481,
+            45.7726687
+          ]
+        ]
+      },
+      "id": "way/250958083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/258128928",
+        "cycleway:right": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue du Président Édouard Herriot",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt",
+        "was:busway": "lane",
+        "zone:maxspeed": "FR:30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8338067,
+            45.7580404
+          ],
+          [
+            4.8338385,
+            45.7580962
+          ],
+          [
+            4.8338927,
+            45.7582299
+          ],
+          [
+            4.8338965,
+            45.7582385
+          ],
+          [
+            4.833902,
+            45.7582532
+          ]
+        ]
+      },
+      "id": "way/258128928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/266126416",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie cyclable temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Rue Duquesne",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "was:cycleway:right": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8453481,
+            45.7726687
+          ],
+          [
+            4.8454402,
+            45.7726772
+          ],
+          [
+            4.8464728,
+            45.772773
+          ],
+          [
+            4.8465849,
+            45.7727834
+          ],
+          [
+            4.8466721,
+            45.7727916
+          ],
+          [
+            4.8473306,
+            45.7728525
+          ],
+          [
+            4.8474271,
+            45.7728615
+          ],
+          [
+            4.8475146,
+            45.7728696
+          ],
+          [
+            4.8481846,
+            45.7729317
+          ],
+          [
+            4.8482829,
+            45.7729408
+          ]
+        ]
+      },
+      "id": "way/266126416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/266129367",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie cyclable temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Rue Duquesne",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8442926,
+            45.7726552
+          ],
+          [
+            4.8441904,
+            45.7726457
+          ],
+          [
+            4.8432289,
+            45.7725564
+          ],
+          [
+            4.8430779,
+            45.7725424
+          ]
+        ]
+      },
+      "id": "way/266129367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/266867427",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie cyclable temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Rue Duquesne",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "was:cycleway:right": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8465731,
+            45.7728669
+          ],
+          [
+            4.8464581,
+            45.7728562
+          ],
+          [
+            4.8454261,
+            45.7727604
+          ],
+          [
+            4.845315,
+            45.7727501
+          ],
+          [
+            4.8452255,
+            45.7727417
+          ],
+          [
+            4.8443939,
+            45.7726642
+          ],
+          [
+            4.8442926,
+            45.7726552
+          ]
+        ]
+      },
+      "id": "way/266867427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/267391709",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie cyclable temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Rue Duquesne",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt",
+        "was:busway:right": "lane",
+        "was:cycleway": "share_busway",
+        "zone:maxspeed": "FR:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8421643,
+            45.7724576
+          ],
+          [
+            4.8420756,
+            45.7724492
+          ],
+          [
+            4.8420491,
+            45.7724466
+          ],
+          [
+            4.8419993,
+            45.7724419
+          ],
+          [
+            4.8413864,
+            45.7723834
+          ],
+          [
+            4.8413588,
+            45.7723821
+          ],
+          [
+            4.8413468,
+            45.7723815
+          ],
+          [
+            4.8412505,
+            45.7723771
+          ],
+          [
+            4.8409955,
+            45.7723684
+          ]
+        ]
+      },
+      "id": "way/267391709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/267392165",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie cyclable temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Rue Duquesne",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "was:cycleway:right": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8474107,
+            45.7729446
+          ],
+          [
+            4.8473136,
+            45.7729355
+          ],
+          [
+            4.8470621,
+            45.7729123
+          ],
+          [
+            4.8466562,
+            45.7728746
+          ],
+          [
+            4.8465731,
+            45.7728669
+          ]
+        ]
+      },
+      "id": "way/267392165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/267392210",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie cyclable temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Rue Duquesne",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "was:cycleway:right": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8482829,
+            45.7729408
+          ],
+          [
+            4.8483805,
+            45.7729499
+          ],
+          [
+            4.8486278,
+            45.7729728
+          ],
+          [
+            4.8488484,
+            45.7729933
+          ],
+          [
+            4.8489342,
+            45.7730012
+          ]
+        ]
+      },
+      "id": "way/267392210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/267392272",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie cyclable temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Rue Duquesne",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "was:cycleway:right": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8489342,
+            45.7730012
+          ],
+          [
+            4.8490182,
+            45.7730079
+          ],
+          [
+            4.8495664,
+            45.7730516
+          ]
+        ]
+      },
+      "id": "way/267392272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281654122",
+        "cycleway:right": "share_busway",
+        "description:covid19": "couloir bus vélo temporaire",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Avenue Pierre Mendès-France",
+        "oneway": "yes",
+        "ref": "D 102",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9092988,
+            45.717741
+          ],
+          [
+            4.9093963,
+            45.7178156
+          ],
+          [
+            4.9095926,
+            45.7179524
+          ],
+          [
+            4.9098462,
+            45.7181385
+          ]
+        ]
+      },
+      "id": "way/281654122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281654127",
+        "cycleway:right": "share_busway",
+        "description:covid19": "couloir bus vélo temporaire",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Boulevard de Parilly",
+        "oneway": "yes",
+        "ref": "D 102",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9092015,
+            45.7177824
+          ],
+          [
+            4.9088582,
+            45.7175184
+          ],
+          [
+            4.908535,
+            45.7172361
+          ],
+          [
+            4.9081128,
+            45.7168056
+          ]
+        ]
+      },
+      "id": "way/281654127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/314927541",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Avenue Gabriel Péri",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9114219,
+            45.7721558
+          ],
+          [
+            4.9108958,
+            45.7720349
+          ],
+          [
+            4.9105296,
+            45.7719408
+          ],
+          [
+            4.9103479,
+            45.7718941
+          ],
+          [
+            4.9091871,
+            45.7716135
+          ],
+          [
+            4.9085197,
+            45.7714496
+          ],
+          [
+            4.9082963,
+            45.7713942
+          ]
+        ]
+      },
+      "id": "way/314927541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/314987316",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt",
+        "turn:lanes": "left|through|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8617998,
+            45.7857845
+          ],
+          [
+            4.8614696,
+            45.7858537
+          ]
+        ]
+      },
+      "id": "way/314987316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/314987317",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8614696,
+            45.7858537
+          ],
+          [
+            4.8610309,
+            45.785912
+          ],
+          [
+            4.8603134,
+            45.7859886
+          ],
+          [
+            4.8596524,
+            45.7860338
+          ],
+          [
+            4.8590644,
+            45.786074
+          ],
+          [
+            4.8589838,
+            45.7860795
+          ],
+          [
+            4.8584213,
+            45.786114
+          ],
+          [
+            4.8577688,
+            45.7861433
+          ],
+          [
+            4.85768,
+            45.7861473
+          ],
+          [
+            4.8575448,
+            45.7861467
+          ],
+          [
+            4.8566278,
+            45.7861447
+          ],
+          [
+            4.8565658,
+            45.7861421
+          ],
+          [
+            4.8557489,
+            45.786078
+          ],
+          [
+            4.855269,
+            45.78602
+          ],
+          [
+            4.8548503,
+            45.785961
+          ],
+          [
+            4.8547847,
+            45.7859517
+          ],
+          [
+            4.8546146,
+            45.7859221
+          ],
+          [
+            4.8544196,
+            45.7858923
+          ],
+          [
+            4.8542415,
+            45.785857
+          ],
+          [
+            4.8539577,
+            45.7857995
+          ],
+          [
+            4.853852,
+            45.7857774
+          ],
+          [
+            4.8531662,
+            45.7856067
+          ],
+          [
+            4.8525681,
+            45.7854279
+          ],
+          [
+            4.8520207,
+            45.7852464
+          ],
+          [
+            4.8513819,
+            45.7849842
+          ],
+          [
+            4.8512846,
+            45.7849443
+          ],
+          [
+            4.8509914,
+            45.7848036
+          ],
+          [
+            4.8506362,
+            45.7846332
+          ],
+          [
+            4.8505542,
+            45.7845938
+          ],
+          [
+            4.850439,
+            45.7845329
+          ]
+        ]
+      },
+      "id": "way/314987317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/314987318",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8619539,
+            45.7855903
+          ],
+          [
+            4.8626627,
+            45.7853288
+          ],
+          [
+            4.8628178,
+            45.785262
+          ],
+          [
+            4.8629837,
+            45.7851555
+          ]
+        ]
+      },
+      "id": "way/314987318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/314987319",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt",
+        "turn:lanes": "through|through|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8610819,
+            45.7858118
+          ],
+          [
+            4.8613667,
+            45.7857556
+          ],
+          [
+            4.8617804,
+            45.7856472
+          ],
+          [
+            4.8619539,
+            45.7855903
+          ]
+        ]
+      },
+      "id": "way/314987319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/326875328",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8546843,
+            45.7858151
+          ],
+          [
+            4.8548209,
+            45.785841
+          ],
+          [
+            4.8552933,
+            45.7859087
+          ],
+          [
+            4.8557713,
+            45.7859582
+          ],
+          [
+            4.8565744,
+            45.7860072
+          ],
+          [
+            4.8566946,
+            45.7860081
+          ],
+          [
+            4.8573531,
+            45.786013
+          ],
+          [
+            4.8575449,
+            45.7860144
+          ],
+          [
+            4.8576798,
+            45.7860154
+          ],
+          [
+            4.8584274,
+            45.7859998
+          ],
+          [
+            4.8588632,
+            45.7859848
+          ],
+          [
+            4.8589763,
+            45.7859809
+          ],
+          [
+            4.8602981,
+            45.785894
+          ],
+          [
+            4.8605143,
+            45.7858713
+          ],
+          [
+            4.8610819,
+            45.7858118
+          ]
+        ]
+      },
+      "id": "way/326875328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/326875329",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8482538,
+            45.7830201
+          ],
+          [
+            4.8484601,
+            45.7831584
+          ],
+          [
+            4.8495155,
+            45.7838368
+          ],
+          [
+            4.8498976,
+            45.78405
+          ],
+          [
+            4.8499713,
+            45.7840911
+          ],
+          [
+            4.8500495,
+            45.7841348
+          ],
+          [
+            4.8504476,
+            45.784347
+          ],
+          [
+            4.8505643,
+            45.7844063
+          ],
+          [
+            4.8506888,
+            45.7844688
+          ],
+          [
+            4.85133,
+            45.7847897
+          ],
+          [
+            4.8513991,
+            45.7848232
+          ],
+          [
+            4.8514935,
+            45.7848695
+          ],
+          [
+            4.8521241,
+            45.7851158
+          ],
+          [
+            4.8526215,
+            45.7852958
+          ],
+          [
+            4.8533412,
+            45.785512
+          ],
+          [
+            4.8538652,
+            45.7856373
+          ],
+          [
+            4.8539192,
+            45.7856521
+          ],
+          [
+            4.8540682,
+            45.7856888
+          ]
+        ]
+      },
+      "id": "way/326875329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/326875330",
+        "cycleway": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8540682,
+            45.7856888
+          ],
+          [
+            4.8543601,
+            45.7857513
+          ],
+          [
+            4.8545501,
+            45.78579
+          ],
+          [
+            4.8546843,
+            45.7858151
+          ]
+        ]
+      },
+      "id": "way/326875330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/326875331",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8467651,
+            45.7814958
+          ],
+          [
+            4.8468069,
+            45.7815578
+          ],
+          [
+            4.8471105,
+            45.7819813
+          ],
+          [
+            4.8473935,
+            45.7822966
+          ],
+          [
+            4.8478797,
+            45.7827319
+          ],
+          [
+            4.8481093,
+            45.7829123
+          ],
+          [
+            4.8482538,
+            45.7830201
+          ]
+        ]
+      },
+      "id": "way/326875331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/326875332",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8466443,
+            45.7815494
+          ],
+          [
+            4.8465849,
+            45.7814649
+          ],
+          [
+            4.8465654,
+            45.7814398
+          ],
+          [
+            4.8463183,
+            45.7810086
+          ],
+          [
+            4.8459521,
+            45.7803481
+          ]
+        ]
+      },
+      "id": "way/326875332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/332270205",
+        "access": "no",
+        "bicycle": "yes",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "service",
+        "oneway": "yes",
+        "psv": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.859413,
+            45.7496009
+          ],
+          [
+            4.8594146,
+            45.7495307
+          ],
+          [
+            4.8594083,
+            45.7495078
+          ],
+          [
+            4.8593835,
+            45.7494087
+          ],
+          [
+            4.8591558,
+            45.7484851
+          ],
+          [
+            4.8591369,
+            45.7484296
+          ],
+          [
+            4.8589445,
+            45.7477625
+          ],
+          [
+            4.8588555,
+            45.7474582
+          ],
+          [
+            4.8588106,
+            45.7473126
+          ],
+          [
+            4.8587946,
+            45.7472506
+          ]
+        ]
+      },
+      "id": "way/332270205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/386780626",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Quai du Docteur Gailleton",
+        "oneway": "yes",
+        "source": "survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8337782,
+            45.7528651
+          ],
+          [
+            4.8338432,
+            45.7529688
+          ],
+          [
+            4.8338696,
+            45.7530109
+          ],
+          [
+            4.8339066,
+            45.7530715
+          ]
+        ]
+      },
+      "id": "way/386780626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/397017084",
+        "cycleway:right": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Boulevard des États-Unis",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8716046,
+            45.7244098
+          ],
+          [
+            4.8714711,
+            45.7245801
+          ],
+          [
+            4.8712393,
+            45.7248759
+          ],
+          [
+            4.8708312,
+            45.7253937
+          ],
+          [
+            4.8702901,
+            45.7260801
+          ],
+          [
+            4.8696032,
+            45.7269741
+          ],
+          [
+            4.8695266,
+            45.7270738
+          ],
+          [
+            4.8694329,
+            45.7271855
+          ],
+          [
+            4.8691965,
+            45.7274671
+          ],
+          [
+            4.8686989,
+            45.728091
+          ],
+          [
+            4.8679468,
+            45.7290516
+          ]
+        ]
+      },
+      "id": "way/397017084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407873214",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "residential",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9081481,
+            45.8279284
+          ],
+          [
+            4.9081065,
+            45.8278848
+          ],
+          [
+            4.9080874,
+            45.8278559
+          ],
+          [
+            4.9080808,
+            45.827846
+          ],
+          [
+            4.9080658,
+            45.8277972
+          ],
+          [
+            4.9080728,
+            45.8277677
+          ],
+          [
+            4.9080892,
+            45.8277416
+          ],
+          [
+            4.9081171,
+            45.8276974
+          ],
+          [
+            4.9081889,
+            45.8276291
+          ],
+          [
+            4.9082339,
+            45.8275864
+          ],
+          [
+            4.9083323,
+            45.8275309
+          ]
+        ]
+      },
+      "id": "way/407873214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/431693765",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Boulevard de Parilly",
+        "ref": "D 102",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9026006,
+            45.7118463
+          ],
+          [
+            4.9027025,
+            45.7119395
+          ],
+          [
+            4.9028002,
+            45.7120287
+          ]
+        ]
+      },
+      "id": "way/431693765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475405521",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "dog": "leashed",
+        "highway": "cycleway",
+        "name": "Rue Louis Blériot"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9083323,
+            45.8275309
+          ],
+          [
+            4.9082285,
+            45.8276534
+          ],
+          [
+            4.908204,
+            45.8276926
+          ],
+          [
+            4.9081918,
+            45.8277296
+          ],
+          [
+            4.9081829,
+            45.8277972
+          ]
+        ]
+      },
+      "id": "way/475405521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/476298586",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Quai Jules Courmont",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "ref": "D 506",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8381687,
+            45.7629274
+          ],
+          [
+            4.838154,
+            45.7626573
+          ]
+        ]
+      },
+      "id": "way/476298586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/476298589",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "name": "Quai Jules Courmont",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8381858,
+            45.7635152
+          ],
+          [
+            4.8381766,
+            45.7633336
+          ],
+          [
+            4.8381773,
+            45.7633145
+          ],
+          [
+            4.8381772,
+            45.7632578
+          ],
+          [
+            4.8381735,
+            45.7631615
+          ]
+        ]
+      },
+      "id": "way/476298589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/477545268",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Quai du Docteur Gailleton",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8339066,
+            45.7530715
+          ],
+          [
+            4.8339398,
+            45.7531236
+          ],
+          [
+            4.8339928,
+            45.7532123
+          ]
+        ]
+      },
+      "id": "way/477545268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/484116565",
+        "cycleway:right": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Boulevard des États-Unis",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|right;through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8679468,
+            45.7290516
+          ],
+          [
+            4.8678337,
+            45.7292147
+          ],
+          [
+            4.8678007,
+            45.7292626
+          ],
+          [
+            4.8677381,
+            45.7293592
+          ]
+        ]
+      },
+      "id": "way/484116565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512173005",
+        "access:lanes:forward": "yes|no",
+        "cycleway:right": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "30",
+        "name": "Rue du Président Édouard Herriot",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "psv:lanes:forward": "no|yes",
+        "surface": "asphalt",
+        "was:busway": "lane"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8341954,
+            45.7633728
+          ],
+          [
+            4.8341986,
+            45.7634253
+          ],
+          [
+            4.8342037,
+            45.7635111
+          ],
+          [
+            4.8342189,
+            45.7637644
+          ],
+          [
+            4.8342219,
+            45.7638141
+          ],
+          [
+            4.8342247,
+            45.7638571
+          ],
+          [
+            4.8342466,
+            45.7641949
+          ],
+          [
+            4.8342485,
+            45.7642234
+          ],
+          [
+            4.8342507,
+            45.7642654
+          ],
+          [
+            4.8342644,
+            45.7645222
+          ],
+          [
+            4.8342713,
+            45.7646368
+          ],
+          [
+            4.8342784,
+            45.7647554
+          ],
+          [
+            4.8342833,
+            45.7648382
+          ],
+          [
+            4.8342836,
+            45.7648421
+          ],
+          [
+            4.8342839,
+            45.7648465
+          ],
+          [
+            4.8342869,
+            45.7649021
+          ],
+          [
+            4.8342905,
+            45.7649654
+          ],
+          [
+            4.8343001,
+            45.7651159
+          ],
+          [
+            4.8343178,
+            45.7654112
+          ],
+          [
+            4.8343348,
+            45.7656939
+          ],
+          [
+            4.8343601,
+            45.7661157
+          ]
+        ]
+      },
+      "id": "way/512173005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/521119799",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cours André Philip",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8619244,
+            45.772632
+          ],
+          [
+            4.862061,
+            45.7726244
+          ],
+          [
+            4.8630861,
+            45.7725511
+          ],
+          [
+            4.8631383,
+            45.7725466
+          ],
+          [
+            4.8631609,
+            45.7725444
+          ],
+          [
+            4.8631989,
+            45.7725421
+          ],
+          [
+            4.8632705,
+            45.7725392
+          ],
+          [
+            4.8633439,
+            45.7725364
+          ],
+          [
+            4.863571,
+            45.7725264
+          ],
+          [
+            4.8642185,
+            45.7725026
+          ],
+          [
+            4.8644638,
+            45.7724798
+          ]
+        ]
+      },
+      "id": "way/521119799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/521119804",
+        "cycleway:right": "share_busway",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Avenue Jean Mermoz",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8792531,
+            45.7333156
+          ],
+          [
+            4.8789369,
+            45.7333709
+          ],
+          [
+            4.8787155,
+            45.7334404
+          ],
+          [
+            4.8783495,
+            45.733559
+          ],
+          [
+            4.8775406,
+            45.7338265
+          ],
+          [
+            4.8763392,
+            45.734208
+          ],
+          [
+            4.8754299,
+            45.7344969
+          ],
+          [
+            4.8752461,
+            45.7345553
+          ],
+          [
+            4.8750781,
+            45.734609
+          ],
+          [
+            4.8749526,
+            45.7346492
+          ],
+          [
+            4.8742436,
+            45.7348761
+          ],
+          [
+            4.8741638,
+            45.7349017
+          ],
+          [
+            4.8739538,
+            45.7349689
+          ]
+        ]
+      },
+      "id": "way/521119804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/521119805",
+        "cycleway:right": "share_busway",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Avenue Jean Mermoz",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8763332,
+            45.7341304
+          ],
+          [
+            4.8773943,
+            45.7337884
+          ],
+          [
+            4.8782769,
+            45.7335022
+          ],
+          [
+            4.8786757,
+            45.7333729
+          ],
+          [
+            4.8788868,
+            45.7333074
+          ]
+        ]
+      },
+      "id": "way/521119805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/521391370",
+        "cycleway:right": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Boulevard des États-Unis",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8677381,
+            45.7293592
+          ],
+          [
+            4.8677179,
+            45.7293864
+          ],
+          [
+            4.8676788,
+            45.7294418
+          ],
+          [
+            4.8676342,
+            45.7294929
+          ]
+        ]
+      },
+      "id": "way/521391370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/522603853",
+        "cycleway:right": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Boulevard des États-Unis",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8674366,
+            45.729413
+          ],
+          [
+            4.8674718,
+            45.7293728
+          ],
+          [
+            4.8675157,
+            45.7293131
+          ],
+          [
+            4.8675362,
+            45.7292885
+          ]
+        ]
+      },
+      "id": "way/522603853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/522736228",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cours André Philip",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8643839,
+            45.7725924
+          ],
+          [
+            4.8642075,
+            45.7726005
+          ],
+          [
+            4.8633576,
+            45.7726395
+          ],
+          [
+            4.8632585,
+            45.772644
+          ],
+          [
+            4.8632055,
+            45.7726453
+          ],
+          [
+            4.8631672,
+            45.7726467
+          ],
+          [
+            4.863095,
+            45.7726509
+          ],
+          [
+            4.8620666,
+            45.7727117
+          ],
+          [
+            4.8619277,
+            45.7727187
+          ]
+        ]
+      },
+      "id": "way/522736228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/522736237",
+        "access:lanes:forward": "yes|no",
+        "cycleway:right": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "30",
+        "name": "Rue du Président Édouard Herriot",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "psv:lanes:forward": "no|yes",
+        "surface": "paved",
+        "was:busway": "lane",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8340927,
+            45.7616634
+          ],
+          [
+            4.8340955,
+            45.7617099
+          ],
+          [
+            4.8341136,
+            45.7620116
+          ],
+          [
+            4.8341145,
+            45.7620256
+          ],
+          [
+            4.8341169,
+            45.7620664
+          ],
+          [
+            4.8341197,
+            45.7621135
+          ],
+          [
+            4.8341638,
+            45.7628485
+          ],
+          [
+            4.8341656,
+            45.7628773
+          ],
+          [
+            4.8341684,
+            45.7629247
+          ],
+          [
+            4.8341714,
+            45.762975
+          ],
+          [
+            4.8341732,
+            45.7630049
+          ],
+          [
+            4.8341867,
+            45.7632278
+          ],
+          [
+            4.8341904,
+            45.7632899
+          ],
+          [
+            4.8341911,
+            45.7633035
+          ],
+          [
+            4.8341954,
+            45.7633728
+          ]
+        ]
+      },
+      "id": "way/522736237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/539394212",
+        "cycleway:right": "share_busway",
+        "description:covid19": "couloir bus vélo temporaire",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Avenue Pierre Mendès-France",
+        "oneway": "yes",
+        "ref": "D 102",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9098462,
+            45.7181385
+          ],
+          [
+            4.9099981,
+            45.7182479
+          ],
+          [
+            4.9102691,
+            45.7184574
+          ],
+          [
+            4.9105198,
+            45.7186545
+          ]
+        ]
+      },
+      "id": "way/539394212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/561969761",
+        "cycleway:right": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard des États-Unis",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8634775,
+            45.734504
+          ],
+          [
+            4.8636817,
+            45.7342378
+          ],
+          [
+            4.8638494,
+            45.7340196
+          ]
+        ]
+      },
+      "id": "way/561969761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589458280",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Route de Paris",
+        "old_ref": "RN7",
+        "oneway": "yes",
+        "ref": "D 307"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7695713,
+            45.7640083
+          ],
+          [
+            4.7707887,
+            45.763881
+          ]
+        ]
+      },
+      "id": "way/589458280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589458283",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Route de Paris",
+        "old_ref": "RN7",
+        "oneway": "yes",
+        "ref": "D 307"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7708136,
+            45.7639678
+          ],
+          [
+            4.769876,
+            45.7641512
+          ],
+          [
+            4.7693418,
+            45.7643078
+          ]
+        ]
+      },
+      "id": "way/589458283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/676990835",
+        "access:lanes:forward": "yes|no",
+        "cycleway:right": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue du Président Édouard Herriot",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "psv:lanes:forward": "no|yes",
+        "sidewalk": "both",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt",
+        "was:busway": "lane",
+        "zone:maxspeed": "FR:30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8339172,
+            45.7587424
+          ],
+          [
+            4.8339198,
+            45.7587854
+          ],
+          [
+            4.8339208,
+            45.7588018
+          ],
+          [
+            4.8339269,
+            45.758903
+          ],
+          [
+            4.8339529,
+            45.7593365
+          ],
+          [
+            4.8339541,
+            45.7593566
+          ],
+          [
+            4.8339564,
+            45.7593944
+          ],
+          [
+            4.8339599,
+            45.759452
+          ],
+          [
+            4.834013,
+            45.7601034
+          ],
+          [
+            4.8340159,
+            45.7601397
+          ],
+          [
+            4.8340164,
+            45.7601477
+          ],
+          [
+            4.8340179,
+            45.7601832
+          ],
+          [
+            4.8340179,
+            45.7601946
+          ],
+          [
+            4.8340069,
+            45.760228
+          ]
+        ]
+      },
+      "id": "way/676990835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779141043",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Quai Jean Moulin",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left|through|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8384231,
+            45.7640129
+          ],
+          [
+            4.838407,
+            45.764432
+          ],
+          [
+            4.838402,
+            45.764649
+          ]
+        ]
+      },
+      "id": "way/779141043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779141044",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Quai Jean Moulin",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8384656,
+            45.7635164
+          ],
+          [
+            4.838465,
+            45.7635826
+          ],
+          [
+            4.8384634,
+            45.7636928
+          ],
+          [
+            4.8384582,
+            45.7638454
+          ],
+          [
+            4.8384231,
+            45.7640129
+          ]
+        ]
+      },
+      "id": "way/779141044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779141045",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Jean Moulin",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt",
+        "turn:lanes": "left|left;through|through|through;right",
+        "zone:maxspeed": "FR:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8381882,
+            45.764047
+          ],
+          [
+            4.838192,
+            45.7636934
+          ],
+          [
+            4.838191,
+            45.763641
+          ],
+          [
+            4.8381909,
+            45.7635867
+          ]
+        ]
+      },
+      "id": "way/779141045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779141046",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "5",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Quai Jules Courmont",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "through|through|through|through;right|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8384464,
+            45.7630235
+          ],
+          [
+            4.8384584,
+            45.7631844
+          ],
+          [
+            4.83846,
+            45.7632217
+          ],
+          [
+            4.8384668,
+            45.7633829
+          ],
+          [
+            4.8384664,
+            45.7634258
+          ],
+          [
+            4.8384656,
+            45.7635164
+          ]
+        ]
+      },
+      "id": "way/779141046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779141047",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Quai Jules Courmont",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left|||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8376296,
+            45.7590967
+          ],
+          [
+            4.83766,
+            45.7592002
+          ],
+          [
+            4.8376792,
+            45.7592678
+          ],
+          [
+            4.8378707,
+            45.7599418
+          ],
+          [
+            4.8379033,
+            45.7600489
+          ],
+          [
+            4.8379253,
+            45.760121
+          ],
+          [
+            4.8379393,
+            45.7601703
+          ]
+        ]
+      },
+      "id": "way/779141047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779329363",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "destination:lanes": "||Toutes directions;Périphérique Porte de Saint-Clair;Caluire|Toutes directions;Périphérique Porte de Saint-Clair;Caluire",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard du 11 Novembre 1918",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes": "left|left|right|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8607859,
+            45.7795159
+          ],
+          [
+            4.8605238,
+            45.7795413
+          ],
+          [
+            4.8598786,
+            45.7796037
+          ],
+          [
+            4.8596808,
+            45.7796347
+          ]
+        ]
+      },
+      "id": "way/779329363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779709703",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "4",
+        "lit": "yes",
+        "name": "Quai Jules Courmont",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8381735,
+            45.7631615
+          ],
+          [
+            4.8381709,
+            45.7630538
+          ],
+          [
+            4.8381687,
+            45.7629274
+          ]
+        ]
+      },
+      "id": "way/779709703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779709707",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Jean Moulin",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|through|through",
+        "zone:maxspeed": "FR:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8381215,
+            45.7650344
+          ],
+          [
+            4.8381882,
+            45.764047
+          ]
+        ]
+      },
+      "id": "way/779709707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779709708",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Jean Moulin",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt",
+        "zone:maxspeed": "FR:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8380522,
+            45.7664626
+          ],
+          [
+            4.8380818,
+            45.7661797
+          ]
+        ]
+      },
+      "id": "way/779709708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779709709",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Jean Moulin",
+        "old_ref": "N 6",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt",
+        "zone:maxspeed": "FR:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8379184,
+            45.7677542
+          ],
+          [
+            4.8379221,
+            45.7677153
+          ],
+          [
+            4.8380216,
+            45.7667556
+          ],
+          [
+            4.8380522,
+            45.7664626
+          ]
+        ]
+      },
+      "id": "way/779709709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779850123",
+        "access:lanes:forward": "yes|yes|no",
+        "busway": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue du Président Édouard Herriot",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "psv:lanes:forward": "no|no|yes",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt",
+        "turn:lanes": "left|through;right|",
+        "zone:maxspeed": "FR:30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8340069,
+            45.760228
+          ],
+          [
+            4.834011,
+            45.7602767
+          ],
+          [
+            4.8340272,
+            45.7605139
+          ],
+          [
+            4.834034,
+            45.7606584
+          ],
+          [
+            4.8340421,
+            45.7607301
+          ]
+        ]
+      },
+      "id": "way/779850123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779850124",
+        "cycleway:right": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue du Président Édouard Herriot",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt",
+        "was:busway": "lane",
+        "zone:maxspeed": "FR:30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8340421,
+            45.7607301
+          ],
+          [
+            4.8340459,
+            45.760785
+          ],
+          [
+            4.8340464,
+            45.7607976
+          ],
+          [
+            4.8340466,
+            45.7608026
+          ],
+          [
+            4.8340617,
+            45.7611475
+          ],
+          [
+            4.8340892,
+            45.7616056
+          ],
+          [
+            4.8340927,
+            45.7616634
+          ]
+        ]
+      },
+      "id": "way/779850124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779850125",
+        "access:lanes:forward": "yes|no",
+        "cycleway:right": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue du Président Édouard Herriot",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "psv:lanes:forward": "no|yes",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt",
+        "was:busway": "lane",
+        "zone:maxspeed": "FR:30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.833902,
+            45.7582532
+          ],
+          [
+            4.8339148,
+            45.7587003
+          ],
+          [
+            4.833915,
+            45.7587024
+          ],
+          [
+            4.8339172,
+            45.7587424
+          ]
+        ]
+      },
+      "id": "way/779850125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/789979650",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Boulevard du 11 Novembre 1918",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8625513,
+            45.7792431
+          ],
+          [
+            4.8626207,
+            45.7792372
+          ],
+          [
+            4.862723,
+            45.7792273
+          ],
+          [
+            4.8627934,
+            45.7792205
+          ],
+          [
+            4.8629293,
+            45.7792082
+          ],
+          [
+            4.8648714,
+            45.779032
+          ],
+          [
+            4.8652102,
+            45.7790013
+          ]
+        ]
+      },
+      "id": "way/789979650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/799709525",
+        "cycleway": "lane",
+        "description:covid19": "bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Avenue Jean Jaurès",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8397462,
+            45.7416297
+          ],
+          [
+            4.8401477,
+            45.7422987
+          ],
+          [
+            4.840189,
+            45.7423753
+          ],
+          [
+            4.8402232,
+            45.7424298
+          ]
+        ]
+      },
+      "id": "way/799709525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/803450211",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Route de Paris",
+        "old_ref": "RN7",
+        "oneway": "yes",
+        "ref": "D 307"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7680171,
+            45.7651219
+          ],
+          [
+            4.768195,
+            45.765071
+          ],
+          [
+            4.7684006,
+            45.7649761
+          ],
+          [
+            4.7686127,
+            45.7648384
+          ],
+          [
+            4.7687088,
+            45.764711
+          ],
+          [
+            4.7688292,
+            45.7645474
+          ],
+          [
+            4.7689361,
+            45.7642946
+          ],
+          [
+            4.7690433,
+            45.7642095
+          ],
+          [
+            4.7692892,
+            45.7640803
+          ],
+          [
+            4.7695713,
+            45.7640083
+          ]
+        ]
+      },
+      "id": "way/803450211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/803450213",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary_link",
+        "maxspeed": "50",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7679795,
+            45.7652403
+          ],
+          [
+            4.7680171,
+            45.7651219
+          ]
+        ]
+      },
+      "id": "way/803450213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804971696",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8442024,
+            45.7778979
+          ],
+          [
+            4.8440996,
+            45.7776671
+          ],
+          [
+            4.8440587,
+            45.7775595
+          ]
+        ]
+      },
+      "id": "way/804971696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804971698",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8459521,
+            45.7803481
+          ],
+          [
+            4.8456108,
+            45.7797282
+          ]
+        ]
+      },
+      "id": "way/804971698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804971699",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "destination": "Vaise;Lyon - Centre",
+        "highway": "primary",
+        "lanes": "1",
+        "lit": "yes",
+        "maxheight": "4.2",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8456108,
+            45.7797282
+          ],
+          [
+            4.84546,
+            45.7796019
+          ],
+          [
+            4.8443288,
+            45.7781668
+          ]
+        ]
+      },
+      "id": "way/804971699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804971700",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt",
+        "turn:lanes": "left|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8468098,
+            45.7817822
+          ],
+          [
+            4.8466768,
+            45.7815951
+          ]
+        ]
+      },
+      "id": "way/804971700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804971701",
+        "cycleway": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8466768,
+            45.7815951
+          ],
+          [
+            4.8466443,
+            45.7815494
+          ]
+        ]
+      },
+      "id": "way/804971701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804971702",
+        "cycleway": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.848329,
+            45.7832467
+          ],
+          [
+            4.8481789,
+            45.7831337
+          ]
+        ]
+      },
+      "id": "way/804971702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804971703",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt",
+        "turn:lanes": "left|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8487999,
+            45.783574
+          ],
+          [
+            4.8483725,
+            45.7832792
+          ],
+          [
+            4.848329,
+            45.7832467
+          ]
+        ]
+      },
+      "id": "way/804971703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804971704",
+        "cycleway": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8500058,
+            45.7843041
+          ],
+          [
+            4.8499216,
+            45.7842586
+          ],
+          [
+            4.8498299,
+            45.7842069
+          ],
+          [
+            4.8492768,
+            45.7838949
+          ],
+          [
+            4.8487999,
+            45.783574
+          ]
+        ]
+      },
+      "id": "way/804971704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804971706",
+        "cycleway:right": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8481789,
+            45.7831337
+          ],
+          [
+            4.8480094,
+            45.7830061
+          ],
+          [
+            4.8477044,
+            45.7827633
+          ],
+          [
+            4.8472381,
+            45.7823217
+          ],
+          [
+            4.8469753,
+            45.782015
+          ],
+          [
+            4.8468098,
+            45.7817822
+          ]
+        ]
+      },
+      "id": "way/804971706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804971707",
+        "cycleway": "lane",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "source:maxspeed": "FR:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.850439,
+            45.7845329
+          ],
+          [
+            4.8500058,
+            45.7843041
+          ]
+        ]
+      },
+      "id": "way/804971707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804971714",
+        "access": "no",
+        "bicycle": "yes",
+        "description:covid19": "Voie cyclable temporaire",
+        "destination": "Lyon Centre",
+        "highway": "primary_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxweight": "7.5",
+        "name": "Quai Charles de Gaulle",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8629112,
+            45.7854759
+          ],
+          [
+            4.8624772,
+            45.7856261
+          ],
+          [
+            4.8621391,
+            45.7857161
+          ],
+          [
+            4.8617998,
+            45.7857845
+          ]
+        ]
+      },
+      "id": "way/804971714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804971715",
+        "access": "no",
+        "bicycle": "yes",
+        "description:covid19": "Voie réservée temporairement aux vélos (marquage jaune au sol)",
+        "destination": "Lyon Centre",
+        "highway": "primary_link",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxweight": "7.5",
+        "name": "Boulevard Laurent Bonnevay",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.865017,
+            45.7846654
+          ],
+          [
+            4.8648735,
+            45.7846822
+          ],
+          [
+            4.8647156,
+            45.7847218
+          ],
+          [
+            4.864532,
+            45.784784
+          ],
+          [
+            4.8642809,
+            45.7848989
+          ],
+          [
+            4.8642289,
+            45.7849371
+          ]
+        ]
+      },
+      "id": "way/804971715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/813868156",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie de bus partagé vélo temporaire",
+        "foot": "no",
+        "highway": "primary",
+        "name": "Quai du Docteur Gailleton",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8339928,
+            45.7532123
+          ],
+          [
+            4.8344361,
+            45.7538111
+          ]
+        ]
+      },
+      "id": "way/813868156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/814009489",
+        "cycleway:right": "share_busway",
+        "description:covid19": "Voie cyclable temporaire",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Avenue Gabriel Péri",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9087181,
+            45.7714072
+          ],
+          [
+            4.9107781,
+            45.7719203
+          ],
+          [
+            4.9108615,
+            45.7719447
+          ],
+          [
+            4.9109958,
+            45.7719765
+          ],
+          [
+            4.9112919,
+            45.7720505
+          ],
+          [
+            4.9116574,
+            45.7721419
+          ],
+          [
+            4.9119937,
+            45.7722392
+          ]
+        ]
+      },
+      "id": "way/814009489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/816763383",
+        "cycleway": "lane",
+        "description:covid19": "Bande cyclable temporaire",
+        "highway": "tertiary",
+        "name": "Avenue des Combattants en Afrique du Nord 1952 1962",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8913659,
+            45.8169084
+          ],
+          [
+            4.8917834,
+            45.8169216
+          ],
+          [
+            4.8922034,
+            45.8169431
+          ],
+          [
+            4.8923322,
+            45.8169311
+          ],
+          [
+            4.8923873,
+            45.8169017
+          ]
+        ]
+      },
+      "id": "way/816763383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/819880172",
+        "cycleway:left": "opposite_lane",
+        "cycleway:right": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "residential",
+        "maxspeed": "50",
+        "name": "Chemin de la Croix",
+        "oneway": "yes",
+        "oneway:bicycle": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9098161,
+            45.8261595
+          ],
+          [
+            4.9096851,
+            45.8261038
+          ],
+          [
+            4.9089774,
+            45.8258391
+          ],
+          [
+            4.9087199,
+            45.8257441
+          ],
+          [
+            4.9085969,
+            45.8256508
+          ],
+          [
+            4.908493,
+            45.8254749
+          ],
+          [
+            4.9084687,
+            45.8253565
+          ],
+          [
+            4.9084943,
+            45.8252288
+          ],
+          [
+            4.9085399,
+            45.8250137
+          ],
+          [
+            4.9085229,
+            45.8248806
+          ],
+          [
+            4.9084607,
+            45.8247619
+          ],
+          [
+            4.9083138,
+            45.8245718
+          ],
+          [
+            4.9081683,
+            45.8244224
+          ],
+          [
+            4.9079553,
+            45.8242258
+          ],
+          [
+            4.9074693,
+            45.8238965
+          ],
+          [
+            4.9072087,
+            45.8237384
+          ],
+          [
+            4.9069314,
+            45.8235893
+          ],
+          [
+            4.9068861,
+            45.8235398
+          ]
+        ]
+      },
+      "id": "way/819880172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/837102999",
+        "cycleway": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Avenue Jean Jaurès",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8336291,
+            45.7313592
+          ],
+          [
+            4.8336931,
+            45.7314645
+          ],
+          [
+            4.8337228,
+            45.7315133
+          ],
+          [
+            4.8347334,
+            45.7332104
+          ],
+          [
+            4.8349247,
+            45.733538
+          ],
+          [
+            4.8352351,
+            45.7340498
+          ],
+          [
+            4.8353739,
+            45.7342773
+          ]
+        ]
+      },
+      "id": "way/837102999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/837103000",
+        "cycleway": "lane",
+        "description:covid19": "Elargissement bandes cyclables temporaires",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Avenue Jean Jaurès",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8307593,
+            45.7265434
+          ],
+          [
+            4.8308411,
+            45.726678
+          ],
+          [
+            4.8309209,
+            45.7268167
+          ],
+          [
+            4.8309546,
+            45.7268726
+          ],
+          [
+            4.8315185,
+            45.7278097
+          ],
+          [
+            4.8317938,
+            45.7282663
+          ],
+          [
+            4.8326012,
+            45.7296208
+          ],
+          [
+            4.8326436,
+            45.7296989
+          ],
+          [
+            4.8326858,
+            45.7297634
+          ],
+          [
+            4.8334987,
+            45.7311391
+          ],
+          [
+            4.833532,
+            45.7311954
+          ],
+          [
+            4.8336051,
+            45.73132
+          ],
+          [
+            4.833622,
+            45.7313494
+          ],
+          [
+            4.8336291,
+            45.7313592
+          ]
+        ]
+      },
+      "id": "way/837103000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/837123754",
+        "cycleway": "lane",
+        "description:covid19": "piste cyclable temporaire",
+        "dog": "leashed",
+        "highway": "cycleway",
+        "name": "Rue Louis Blériot",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9081829,
+            45.8277972
+          ],
+          [
+            4.9081992,
+            45.8278483
+          ],
+          [
+            4.908226,
+            45.8278973
+          ]
+        ]
+      },
+      "id": "way/837123754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/853707429",
+        "cycleway": "lane",
+        "description:covid19": "Bandes cyclables temporaires",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxspeed:type": "sign",
+        "name": "Cours de la République",
+        "oneway": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8740061,
+            45.7652633
+          ],
+          [
+            4.8740092,
+            45.7651848
+          ],
+          [
+            4.8740105,
+            45.7651504
+          ],
+          [
+            4.8740597,
+            45.7638994
+          ]
+        ]
+      },
+      "id": "way/853707429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/877989483",
+        "cycleway:right": "share_busway",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Avenue Jean Mermoz",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8739545,
+            45.7348981
+          ],
+          [
+            4.8740246,
+            45.7348754
+          ],
+          [
+            4.8741386,
+            45.7348386
+          ],
+          [
+            4.8745668,
+            45.7347003
+          ],
+          [
+            4.8750415,
+            45.734547
+          ],
+          [
+            4.8752464,
+            45.7344808
+          ],
+          [
+            4.8753952,
+            45.7344328
+          ],
+          [
+            4.8763332,
+            45.7341304
+          ]
+        ]
+      },
+      "id": "way/877989483"
+    }
+  ]
+}
